@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The state or condition of the religious man on earth being a sermon preached at great Yarmouth, in the county of Norfolk, June 6th. 77. Also, Gods love to laps'd man. In a sermon preached at Northwalsham, in Norfolk, on Christmas Day, 1676. By R.S. M.A. and rector of Taverham in the county of Norfolk.</title>
+            <author>Scamler, Robert, b. 1653 or 4.</author>
+         </titleStmt>
+         <extent>Approx. 127KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62289</idno><idno type="EEBO-CITATION">99832341</idno>
+  <idno type="VID">36814</idno>
+  <idno type="EEBO-PROQUEST">2240904610</idno>
+  
+            <idno type="STC">Wing S808</idno>
+            <idno type="STC">ESTC R220958</idno>
+            <idno type="PROQUEST">99832341</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832341e"/>
+            <note>(EEBO-TCP ; phase 2, no. A62289)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36814)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2058:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The state or condition of the religious man on earth being a sermon preached at great Yarmouth, in the county of Norfolk, June 6th. 77. Also, Gods love to laps'd man. In a sermon preached at Northwalsham, in Norfolk, on Christmas Day, 1676. By R.S. M.A. and rector of Taverham in the county of Norfolk.</title>
+                  <author>Scamler, Robert, b. 1653 or 4.</author>
+               </titleStmt>
+               <extent>[2], 68 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by George Rose bookseller in Norwich,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R.S. = Robert Scamler.</note>
+                  <note>Caption title on p. 1 reads: The state of the righteous.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36814:1"/>
+            <pb facs="tcp:36814:1"/>
+            <p>THE State <hi>or</hi> Condition of the RELIGIOUS MAN ON EARTH: Being a Sermon Preached at Great <hi>YARMOƲTH,</hi> in the County of <hi>NORFOLK,</hi> June 6th. 77.</p>
+            <p>
+               <hi>ALSO,</hi> GODS LOVE TO LAPS'D MAN.</p>
+            <p>In a SERMON Preached at <hi>NORTHWALSHAM,</hi> in <hi>NORFOLK,</hi> on Christmas Day, 1676.</p>
+            <p>By <hi>R. S.</hi> M. A. And Rector of <hi>Ta<g ref="char:EOLhyphen"/>verham</hi> in the County of <hi>NORFOLK.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Quos Amo, Arguo, &amp; Castigo.</hi>
+               </bibl>
+               <l>Was the Way to Heav'n direct, smooth, and strait,</l>
+               <l>I should think Heaven to be a Counterfeit:</l>
+               <l>Great are the Troubles where the Prize is great,</l>
+               <l>For there's no Virtue, where we find no Sweat.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be sold by <hi>GEORGE ROSE</hi> Bookseller in <hi>NORWICH,</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:36814:2"/>
+            <pb n="1" facs="tcp:36814:2"/>
+            <head>THE STATE OF THE RIGHTEOUS.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Psalm. 34.19.</hi>
+                  </bibl>
+                  <p>Great (or many) are the Troubles of the Righteous, but the Lord will deliver him out of all.</p>
+               </q>
+            </epigraph>
+            <p>WHEN the World was in its Cradle and Religion in her Swadling Clouts, The Wisdom of Heaven thought it conveni<g ref="char:EOLhyphen"/>ent to educate the tender years of In<g ref="char:EOLhyphen"/>fant-Piety with the alluring hopes of a temporal Prospe<g ref="char:EOLhyphen"/>rity, to prompt and encourage men to a ready entertain<g ref="char:EOLhyphen"/>ment of her Services: For had Religion in her tender years appear'd with an austere look and morose behavi<g ref="char:EOLhyphen"/>our, she must of necessity have had fewer admirers of her Beauty. Least therefore she should meet but with a slender respect and mean entertainment, she came into the World with a mild aspect and for her dowry had
+<pb n="2" facs="tcp:36814:3"/> all the advantages of a temporal felicity, entituled up<g ref="char:EOLhyphen"/>on her followers, which was the state of her first mani<g ref="char:EOLhyphen"/>festation, or making her self known to the World.</p>
+            <p>But when she was grown somewhat elder and of a more strong constitution, God desisted from courting men by the hopes of her portion of splendid prefer<g ref="char:EOLhyphen"/>ments, and goodly heritages, that they might be ena<g ref="char:EOLhyphen"/>moured of her Beauty and not of the Appendants, that he might see whether it was out of pure and undefiled love to Religion, or out of affection to the World, which made them to comply with the observance of his Laws, upon which account he did then command them to renounce the World and all their hopes there<g ref="char:EOLhyphen"/>in, that they should no longer live by sense, but Faith; that they must expect to be encountred with sorrows and afflictions, calamities and crosses, if they would be reputed his children, and lead a vertuous and godly life.</p>
+            <p>And this is that condition of the Righteous Holy <hi>Da<g ref="char:EOLhyphen"/>vid</hi> describeth in the text, where looking on the mise<g ref="char:EOLhyphen"/>ries they suffer, he seemeth to cry, <hi>Great are the trou<g ref="char:EOLhyphen"/>bles of the Righteous;</hi> respecting the Promise he seemeth to sing <hi>the Lord will deliver them out of all:</hi> Both which make our lives fitly compar'd to a Musick-book, where we shall seldom observe many white notes, but they art intermixed with black, and both together compose the sweetest harmony.</p>
+            <p>God set's us our lesson in a little book; it contains no more then two pages, one stiled consolation the other dissolution, 'tis necessary for both to take their turns; In the day of prosperity, remember thy self of adversi<g ref="char:EOLhyphen"/>ty, In the day of adversity comfort thy self with the hopes of prosperity: For the divine providence min<g ref="char:EOLhyphen"/>gles our life as one would Wine and Water in the
+<pb n="3" facs="tcp:36814:3"/> same Cup, Some drink the purest, others the most compound but all taste a commixtion, <hi>for great are the troubles,</hi> &amp;c.</p>
+            <p>This <hi>Psalm</hi> the sweet Singer of <hi>Israel</hi> compos'd after he had chang'd his Behaviour and feigned himself mad in the Court of <hi>Abimelech</hi> his deadly enemy, which dissimulation proved a means for happy deliverance from that imminent peril which other<g ref="char:EOLhyphen"/>wise had most infallibly proved fatal.</p>
+            <p>He therefore no sooner saw the net broken, and him<g ref="char:EOLhyphen"/>self escaped as a Bird from the hand of the Fowler, but he tunes his instrument and falls a warbling forth the praises of the Almighty, saying,<note place="margin">
+                  <hi>verse</hi> 1.</note>
+               <hi>I will always praise the Lord,</hi> which may serve as a reproach to them who day<g ref="char:EOLhyphen"/>ly observe the benigne providence of God in protecting them from those perils and dangers, which are obvious to all amidst the changes and chances of this mortal life, yet seldom or never send up their praises to him, from whence cometh their help; Nay, they will scarce be brought to acknowledge 'tis the hand of the Lord which hath brought such mighty things to pass.</p>
+            <p>But Holy <hi>David</hi> here thinks it too mean a perfor<g ref="char:EOLhyphen"/>mance for none but himself to sing the marvelous kind<g ref="char:EOLhyphen"/>ness of the Lord, he therefore entreats others to bear a part with him in this consort of thanksgiving, saying, <hi>Oh magnifie the Lord with me,</hi>
+               <note place="margin">
+                  <hi>v.</hi> 3.</note>
+               <hi>and let us exalt his Name to<g ref="char:EOLhyphen"/>gether.</hi>
+            </p>
+            <p>But alas! Men think they exceed in their duty, if when Heav'n hath been concerned in procuring a deli<g ref="char:EOLhyphen"/>verance, they cry out with the Pharisee, <hi>Lord I thank thee;</hi> and conceit it too troublesome and tedious a ser<g ref="char:EOLhyphen"/>vice to be always telling forth his loving kindess unto others.</p>
+            <pb n="4" facs="tcp:36814:4"/>
+            <p>Our <hi>Psalmist</hi> therefore to prompt and encourage them to this holy duty and to incite them to piety, reck<g ref="char:EOLhyphen"/>ons up a Catalogue of the many privileges of the Right<g ref="char:EOLhyphen"/>eous. How that their crys will pierce beyond the Clouds, and sound in the ears of God, for they are open to their complaint, how that he is nigh unto them that are of a broken heart, and saveth such as be of a con<g ref="char:EOLhyphen"/>trite spirit.</p>
+            <p>Yea, let never so many sorrows and afflictions op<g ref="char:EOLhyphen"/>press the Righteous, yet still in his appointed time and pleasure he will not only deliver them from the lightest and least burthensome, but also from the most torment<g ref="char:EOLhyphen"/>ing and diresom, yea, from all and every one of them, For though <hi>great are the troubles of the Righteous, yet the Lord will deliver him out of all.</hi>
+            </p>
+            <p>
+               <hi>Which words present us with these Two Considerations.</hi>
+            </p>
+            <p>First, The condition of the Righteous man upon earth, or the Religious person presented to us in Sables, with ashes sprinkled on his head, his garments rent, his heart broken, himself a companion, a man and friend of sorrows, <hi>Great are the Troubles,</hi> &amp;c.</p>
+            <p>Secondly, We have a confident assurance of this mans delivery from this his forlorn estate, <hi>The Lord will deli<g ref="char:EOLhyphen"/>ver him out of all.</hi>
+            </p>
+            <p>
+               <hi>We begin with the State of the Righteous upon earth,</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Job</hi> 14.1.</note>
+               <hi>Man that is born of a Woman hath but a short time to live, and is full of misery,</hi> saith that picture of patience and Landschape of misery, Holy <hi>Job,</hi> who took the heigth of other mens miseries by surveying his own afflicti<g ref="char:EOLhyphen"/>ons; for though he was an upright man, one who had an awful reverence for the majestie of Heaven, and that combining with his love, caused him to shun all
+<pb n="5" facs="tcp:36814:4"/> occasions and appearances of evil; yet still as he endea<g ref="char:EOLhyphen"/>voured to avoid all the tempting evils of sin, the evil of afflictions pursued him close at his heels, for he was filled to the brim with the very Gall and Bitterness of Sorrows.</p>
+            <p>How was he sequestred from all the Blessings of this Life? plunder'd of his Earthly Goods! robb'd of his Children, the little models of himself! and from the hands of an ill-advising Wife, delivered into the hands of Satan, to be buffeted and scourged at his pleasure.</p>
+            <p>
+               <hi>Few and evil have been the days of my life,</hi> saith the Patri<g ref="char:EOLhyphen"/>arch <hi>Jacob,</hi> one of the chief Darlings of God,<note place="margin">
+                  <hi>Gen.</hi> 47.9.</note> yet what a large draught did he drink of the Cup of salt Tears of afflictions! How was he banished from the knees of his aged Father! from the bosom of his loving and tender-hearted Mother! What an inveterate enemy to him was his Brother <hi>Esau?</hi> who forced him to tra<g ref="char:EOLhyphen"/>vel into a strange Country, only accompanied with his Staff and his Scrip, almost clad with no other Garments than the sable-weeds of wo; having no o<g ref="char:EOLhyphen"/>ther Bed than the cold Earth to rest his wearied and tender Limbs; no other Canopy than that of Heaven; no other Pillow than a Marble-stone, which, like a kind-hearted Host, did, by its weeping, seem to com<g ref="char:EOLhyphen"/>miserate the hard misfortune of this unhappy Pilgrim; who, after all this, was constrain'd for meer mainte<g ref="char:EOLhyphen"/>nance to serve a <hi>Pagan</hi> in a strange Land, for many years.</p>
+            <p>Yes, and as we have seen the afflictions of this pi<g ref="char:EOLhyphen"/>ous man in his own person, so we may track the foot<g ref="char:EOLhyphen"/>steps of them in that of his Off-spring, for they were the Coheirs, not only of his substance, but also of his sorrows. But to discourse of all their troubles, crosses, and tribulations, would make your ears undergo an <hi>E<g ref="char:EOLhyphen"/>gyptian</hi>
+               <pb n="6" facs="tcp:36814:5"/> Tyranny, whilst we passed through this Wil<g ref="char:EOLhyphen"/>derness of wo. This then shall suffice, that they walk<g ref="char:EOLhyphen"/>ed through the Red-Sea of affliction, before they ar<g ref="char:EOLhyphen"/>rived at the Promised Land of <hi>Canaan.</hi>
+               <note place="margin">
+                  <hi>verse</hi> 3.</note>
+            </p>
+            <p>Nevertheless these People were Gods own chosen Inheritance, or, to use the Prophets expression, the Friends of God, and greater favourites in the Court of Heaven.</p>
+            <p>
+               <note place="margin">
+                  <hi>Zech.</hi> 13.</note>Notwithstanding which, the Wisdom of Heaven thought it convenient to purifie them in the Furnace of Afflictions, the more gloriously to adorn them with those Spiritual Ornaments, which can render them most amiable in the Eyes of the great King.</p>
+            <p>But amongst all, who have suffered affliction, who ever met with more hardships than <hi>David;</hi> For he, be<g ref="char:EOLhyphen"/>ing a Type of Christ, was always hedged about with the Cross; as Christ was contemned of his Country<g ref="char:EOLhyphen"/>men, so <hi>David</hi> of his Brethren: As Christ fled into <hi>E<g ref="char:EOLhyphen"/>gypt,</hi> so <hi>David</hi> unto <hi>Gath:</hi> As Christ received Food of Women, so <hi>David</hi> of <hi>Abigail:</hi> As <hi>Herod</hi> persecuted Christ, so <hi>Saul</hi> persecuted <hi>David:</hi> Yes, and the wrath of the King created a number of Enemies, insomuch that though he was annointed, he could not reign; and when he reigned, his reign was but a Warfare: The <hi>Philistines</hi> against him, the <hi>Amorites</hi> against him, the <hi>Edomites</hi> against him, yea and <hi>Absalom</hi> too, for whom he would have died, rose up against him. His Son, who was his darling, prov'd Traitor unto him; and Viper-like, sought to deprive hin of life, who gave him breath: Is it strange then that <hi>David</hi> affirms? <hi>Great are the troubles, &amp;c.</hi>
+            </p>
+            <p>But perhaps some may confess, 'Tis true, whilst Religion was clouded, and the Law had shadowed the brightness thereof, men were overspread with ca<g ref="char:EOLhyphen"/>lamities
+<pb n="7" facs="tcp:36814:5"/> and troubles, but so soon as the Son of Righte<g ref="char:EOLhyphen"/>ousness arose, he dispersed not only the mists and obscu<g ref="char:EOLhyphen"/>rities that were under the Law, but also that gloomi<g ref="char:EOLhyphen"/>ness of sorrows which had seized on mens spirits; and since Christ is come and hath preached the Kingdom of the Gospel, our days are the Halcyon, and weather Sun-shine.</p>
+            <p>To which I answer.</p>
+            <p>If we take a prospect of the troubles of the Righte<g ref="char:EOLhyphen"/>ous under the Law, we shall conclude it was but a little Cloud which arose like the Palm of a mans hand in re<g ref="char:EOLhyphen"/>ference to those Storms and Tempests, which have uni<g ref="char:EOLhyphen"/>ted and spread themselves over the face of the whole earth, under the dispensation of the Gospel, for in tem<g ref="char:EOLhyphen"/>poral blessings and earthly felicities, the Law hath the preeminence.</p>
+            <p>For in the time of the Law, God promised to <hi>Moses,</hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 9.14.</note> for a reward of his faith and obedience, <hi>to make of him a great Nation;</hi> But the blessed Jesus saith, <hi>My Flock it is a little one.</hi>
+            </p>
+            <p>In the time of the Law,<note place="margin">
+                  <hi>Gen.</hi> 15.</note>
+               <hi>Abraham</hi> the Father of the faithful, was blessed with the promise of plenty and a<g ref="char:EOLhyphen"/>bundance, <hi>All the Land which thou seest, to thee will I give it and to thine inheritance for ever,</hi> yes, and our Royal Prophet cou'd say, <hi>that the Righteous shall possess the Land,</hi>
+               <note place="margin">
+                  <hi>Ps.</hi> 37.22.</note> nay, a little after he testifieth that he had observed for many years together yet <hi>never could see the Righteous for<g ref="char:EOLhyphen"/>saken, or any of their Seed begging their Bread,</hi>
+               <note place="margin">and <hi>25.</hi> v.</note> for in those days Prosperity did seem as it were entail'd on none but the Righteous Person; But since Christ came to settle the Gospel in the World, <hi>Tempora mutantur,</hi> and the blessings of the godly are of a contrary die and com<g ref="char:EOLhyphen"/>plexion,<note place="margin">
+                  <hi>Mat.</hi> 5.10.11.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Blessed are you when persecuted for Righteosness sake, and
+<pb n="8" facs="tcp:36814:6"/> blessed are you when men shall revile you, and speak</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>every thing that is evil of you for my name sake.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Acts</hi> 14.22. <hi>Heb.</hi> 12.6, 7.</note>
+               <hi>We must through many Tribulations enter the Kingdom of God;</hi> So again, <hi>Whom the Lord loveth he scourgeth, and chastneth every Son whom he receiveth.</hi>
+            </p>
+            <p>We are therefore a Spurious Ofspring and no true Children of God, if exempt from afflictions. <hi>Quos A<g ref="char:EOLhyphen"/>mo, arguo &amp; castigo;</hi> Those who are my Darlings and Fa<g ref="char:EOLhyphen"/>vourites, whom I honour with the most Signal Testi<g ref="char:EOLhyphen"/>monies of my love, <hi>I rebuke and chasten.</hi>
+            </p>
+            <p>They are the Oxen destined for slaughter, which graze in green Pastures, but those appointed for a more mild and gentle usage, are dayly harrased with labour and subject to travail. The barren Tree is not beaten, but the Tree planted by the River side bringing forth fruit in due season.</p>
+            <p>We read that the Stones which were to beautifie the Temple of <hi>Solomon,</hi> were hewn and squared before they were thought meet for so glorious a Fabrick: every Christian in like manner must expect to be encountred with sorrow and calamities to fit and polish them for the building up that Triumphant Church, whereof Je<g ref="char:EOLhyphen"/>sus Christ is the Head, no marvel then that <hi>great are the troubles of the Righteous.</hi>
+            </p>
+            <p>For if we reflect on them with an impartial eye, we shall conclude them highly conducive to the good and benefit of Gods Children.</p>
+            <p>For do I own the right and Sovereignty of God over me? if so, I must consequently submit to his hand, kis<g ref="char:EOLhyphen"/>sing the Rod that scourgeth me, and then my afflicti<g ref="char:EOLhyphen"/>ons will be more medicinal then afflictive.</p>
+            <p>For without doubt we cannot sufficiently relish the sweetness of good without the tryals of evil, <hi>Joseph</hi>
+               <pb n="9" facs="tcp:36814:6"/> moun<g ref="char:EOLhyphen"/>ted on the Triumphant Chariot of <hi>Pharaoh</hi> by Prisons and Fetters, <hi>David</hi> to the Throne of <hi>Saul</hi> by many per<g ref="char:EOLhyphen"/>secutions, and they thought their great prosperities to be much more pleasant, because they were ushered in by sharp afflictions, as Wine is most pleasant after the Lees of Vinegar.</p>
+            <p>Nay, let us but consult Nature we may make the same remarques, where we shall behold the Sun dart<g ref="char:EOLhyphen"/>ing forth more brisk and lively Rays after an Eclypse, The Sea more calm after it hath been discompos'd and ruffl'd by a Tempest,; and the Air much fairer when it hath wept those showrs which did obscure its bright<g ref="char:EOLhyphen"/>ness, upon which account <hi>Seneca</hi> did affirm that <hi>as Storms and Tempests did contribute to the clearness of the Heavens and smoothness of the Sea, even so the enterchanges of prosperity and adversity did much contribute to the happi<g ref="char:EOLhyphen"/>ness of men.</hi>
+            </p>
+            <p>How could we judge of that pleasure the Spring and Summer entertain us with, if they were not ushered in by the piercing winds and cold of the two contrary Seasons. Neither can happiness delight us, till we first bear the affronts of infelicity.</p>
+            <p>For was it it the power of humane nature to pre<g ref="char:EOLhyphen"/>scribe an antidote as a preservative from all manner of miseries, that very want of miseries would prove an occasion of misery, because the mind cloyed with con<g ref="char:EOLhyphen"/>tinual happiness would prove a glut and burthen to it self, disgusting that at last, which an intermission would have rendred pleasant.</p>
+            <p>Doth not that meat which is most pleasing to our pal<g ref="char:EOLhyphen"/>lats, by our dayly feasting thereon, both take away our appetite and proves loathsome and not to be en<g ref="char:EOLhyphen"/>dured.</p>
+            <p>Even so it is with the pleasures of this world ne<g ref="char:EOLhyphen"/>ver
+<pb n="10" facs="tcp:36814:7"/> more unpleasant than when they are not served up with the sowr herbs of adversity.</p>
+            <p>But perhaps some may here object, that if we can ne<g ref="char:EOLhyphen"/>ver relish happiness without a mixture of evil, we might thence infer, the Angels were not sufficiently happy, because they attained their perfection of bliss without passing through tribulation; for like the Lillies of the field they neither spinn'd nor toyl'd to be cloathed with the robe of glory.</p>
+            <p>I answer, There is a great difference between the condition of things eternal and things temporal, Angels entred almost as soon into felicity as being, They being placed in the upper Region of the the World, where miseries cannot approach, and being so singularly fa<g ref="char:EOLhyphen"/>voured by God, needed not to be ballanced by the counterpoize of adversities, but as for us we are born in a soil as fertile in calamities as Forrests with Birds, and Rivers with Fish, and are likewise extreamly igno<g ref="char:EOLhyphen"/>rant of Gods grace, when we long enjoy prosperity We grow wanton and are ready to kick against our Ma<g ref="char:EOLhyphen"/>ker, so long as we are puffed up with prosperity, till the Scene is changed and we come to act a more melan<g ref="char:EOLhyphen"/>choly part, and then adversity opens our eyes that we may perceive those noble felicities which attend and wait upon her, and also maketh us to understand who is the Author and Original from whence they proceed. And this is the reason why Angels are perfectly happy, without afflictions, but men must first be afflicted be<g ref="char:EOLhyphen"/>fore they can be happy, made miserable before they can be glorious, because they are not capacitated for the infusions of grace, until they have freed and ridd them<g ref="char:EOLhyphen"/>selves of all earthly matters whatsoever.</p>
+            <p>We must never look to ascend Mount <hi>Tabor</hi> till we first have climbed Mount <hi>Calvary,</hi> nor can we eat of the
+<pb n="11" facs="tcp:36814:7"/> Honey-comb he fed on after his Resurrection, until we have pledged him in that Vinegar and Gall he drank upon the Cross.</p>
+            <p>God will have it so for several reasons, whereof these are the principal.</p>
+            <p>The first reason why God visits us with afflictions may be to Withdraw us from the love of this World.</p>
+            <p>For whilst we are swallowed up with the pleasing conceit of the flourishing condition of our goodly Heri<g ref="char:EOLhyphen"/>tages and prosperous fortunes, our devotion proves a melancholy disturber, and one that exacts too severe a service from the minds of generous Spirits, God is ima<g ref="char:EOLhyphen"/>gined as one who deals after too rough and rugged a manner because he will not licence us to be always re<g ref="char:EOLhyphen"/>velling in our jollities, but expecteth some certain parts not only of our lives, but also of every day to be set a<g ref="char:EOLhyphen"/>part for his service and worship, and this makes Reli<g ref="char:EOLhyphen"/>gion to meet but with a slight entertainment at our hands, this makes us stopp our ears at the voice of the Charmer, our hearts are wholly ravish'd with the de<g ref="char:EOLhyphen"/>lightful reflexions on our great abundance till we prove totally forgetful both of our eternal interest and also of the respect due to him who hath blessed us with the fat<g ref="char:EOLhyphen"/>ness of the Land.</p>
+            <p>They are the cloddy incumbrances of the World, that debase and clogg our spirits making them listless and unactive, which like Bird-lime hamper and entan<g ref="char:EOLhyphen"/>gle our souls, indisposing our minds for the most noble and clarified contemplations of eternity. But when the pruning-hook of afflictions comes to lop off these corrupting branches, then are we brought to hate that which before was the delight of our eyes, and sole posses<g ref="char:EOLhyphen"/>sor of our hearts, and to hunger and thirst after that which formerly seemed crude and nauseous to our Pa<g ref="char:EOLhyphen"/>lates. Ill</p>
+            <pb n="12" facs="tcp:36814:8"/>
+            <p>weeds are to be destroyed before we can sow good Corn,; neither is the Soul capacitated for the enter<g ref="char:EOLhyphen"/>tainment of divine truths until some sinister accident accident and cross affliction hath cleansed and purged it from the dross of the World.</p>
+            <q>Aurem cordis Tribulatio aperit, quam saepe prosperitas hujus mundi claudit.</q>
+            <p>Tribulation opens the ear of the heart, which is too frequently shut and deafned by worldly prosperity.</p>
+            <p>Thus <hi>Antiochus</hi> when he enjoyed the constant Series of a smiling fortune, boasted himself superior to God himself, but when the inconstant Goddess withdrew her beams, and appeared unto him under a Cloud of troubles, He changed his note, for having received a fall out of his Chariot, and his Insolency curbed by an immediate blow from Heaven, He could say,
+<q>Justum est hominem mortalem subditum esse Deo.</q>
+            </p>
+            <p>It is meet and requisite for Mortal Men, to be Subject to the Immortal God.</p>
+            <p>So likewise <hi>N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>buchadnezzar</hi> in his carier of impiety, defied the Lord of Hosts, and proudly vaunted himself against the Almighty, until he enter'd into the Armo<g ref="char:EOLhyphen"/>ry of his wrath, and Metamorphosed this proud King into a base beast, and then he could confess <hi>the Lord was able to abase all them that walk in pride.</hi>
+               <note place="margin">Dan. <hi>4.</hi> last v.</note>
+            </p>
+            <p>For when God perceives a constant course of his kind<g ref="char:EOLhyphen"/>ness cannot wean us from our sins, he then applyes the Ministers of his Fury, the storms and tempests of affli<g ref="char:EOLhyphen"/>ctions
+<pb n="13" facs="tcp:36814:8"/> to ruffle us out of them. 'Tis true great pros<g ref="char:EOLhyphen"/>perities do not easily corrupt the souls which have taken a good temper in the fear of God, nevertheless they wound and in some sort change them.</p>
+            <p>A little Bee sometimes playeth so long upon her ho<g ref="char:EOLhyphen"/>ny that by much walking there she entangleth her wings; So a Soul yea one of those most eminent for de<g ref="char:EOLhyphen"/>votion and piety, being continually soothed with a long sequel of the good successes of the affairs of the World, taketh some small flight out of it self, seeking recreation in a smiling and delicate air, which affords nothing but objects of pleasure and delight; But so soon as adversi<g ref="char:EOLhyphen"/>ty hath given her blow, it reentreth into it self, it fold<g ref="char:EOLhyphen"/>eth it self within it self, it fasteth it self, it knoweth it self, it findeth God in the bottom of her heart, afflicted and perplext with the revolutions of the World, she raises and darts her self above the ways of the Moon, and Tracks of the Sun, to that goodly Temple of Eternity, where Spirits dwell disrobed of these garments of flesh and bones, which we dragg along with us in this mor<g ref="char:EOLhyphen"/>tal life. This is that High-Rode the devout soul jour<g ref="char:EOLhyphen"/>neys in so soon as she is alienated from the Court of prosperity, and disentangled from the affairs of the World; She then enters into a sweet retirement, and looks on the embroideries of nature in the Mountains and Vallies, Forrests and Rivers, as a Theater declaring the glory of God, and shewing his <hi>Handy-work.</hi>
+            </p>
+            <p>She relisheth this retreat from the World as <hi>Manna</hi> from Heaven and tasts the deep silence of sorrow with incredible delight. Oh! how will she be delighted! How will she be ravished! when she shall reflect on the marvelous kindness of God towards her, that he should chasten her here, least she should be chastised for ever, that she should be afflicted with sorrows in
+<pb n="14" facs="tcp:36814:9"/> this life, to free her from eternal gnashings of teeth, that he should deprive her of the gilded nothings of this World, that she may enjoy an everlasting and su<g ref="char:EOLhyphen"/>pream good; That he should make her unfortunate here, least she should be eternally unhappy amidst the tortures of Brimstone and Fire hereafter; In a word, How happy will she be, when she shall consider how God hath made her smart under the light afflictions of an adverse fortune on earth, to adopt her for an eternal and exceeding weight of glory in Heaven.</p>
+            <p>Her adversity will make her imagine, as if she were discoursing with God face to face; This gall will make her open her eyes and see that it is the hand of God which presseth her sore, and the consideration that it is the Lord, will make her to say cheerfully with old <hi>Eli,</hi>
+               <note place="margin">1 <hi>Sam.</hi> 3.18.</note>
+               <hi>Let him do what seemeth him good.</hi>
+            </p>
+            <p>But indeed until we be thus varnish'd and brightned; till we be refined by this fire of affliction, until we have whitened our souls by the tears of sorrow, our affecti<g ref="char:EOLhyphen"/>ons will espouse the quarrel of the World, and wholly declare in favour of it.</p>
+            <p>God therefore to curb us that we may not stray be<g ref="char:EOLhyphen"/>yond our limits, keeps us in a vale of tears often leading us through an <hi>Aceldema,</hi> a field of bloud and persecution, that with <hi>Jacob</hi> we may long for our Fathers house, not saying with St. <hi>Peter, it is good for us to be here,</hi> but rather with St. <hi>Paul, I desire to be dissolved and to be with Christ.</hi>
+            </p>
+            <p>For if, like the Moon in the Eclypse, we fail not to appear dark on that side which looketh towards earth, we shall most assuredly appear radiant and bright on that which tends towards Heaven, for it is to withdraw our affections from of the World that, <hi>Great are the troubles of the Righteous.</hi>
+            </p>
+            <pb n="15" facs="tcp:36814:9"/>
+            <p>A Second Reason why God visits us with afflictions may be to draw us to amendment of life.</p>
+            <p>Thus the Royal Prophet, <hi>Before I was troubled I went wrong, but now have I known thy Law.</hi>
+            </p>
+            <p>As the eyes of <hi>Tobit</hi> were opened by the gall of the Fish, so the judgments of Heaven inflicted on us make us to reflect on the past actions of our life, that we may correct and reform all the errataes and misdeme<g ref="char:EOLhyphen"/>anors thereof.</p>
+            <p>For as the Rod of <hi>Moses</hi> stricken on the Stony Rock, caused whole Buckets of water to issue out thence, in like manner the Rod of afflictions smiting on our flinty and obdurate hearts, forceth whole Rivers of tears to flow from our eyes for our sins committed.</p>
+            <p>For what is more natural to every one, when he is in distress, than to call to remembrance those sins, which he concludes the occasion thereof?</p>
+            <p>When Heaven is pouring forth its vials of wrath and vengeance upon us, can we act so insensibly, as well as irrationally, as not to commune with our hearts, and ask our souls what have we done? How have I deserved this? what notorious crime have I commit<g ref="char:EOLhyphen"/>ted that I have made my God who delighteth not in the misery of his people, so highly displeased with me, as to afflict my body with this disease, and that di<g ref="char:EOLhyphen"/>stemper?</p>
+            <p>Is it not for the Plague of the heart that I am now tormented with the Plague in my Body? was not I afflicted with this tumour, because I was so affected with the tympany of pride? How come I dismembred in my Limbs, but because I did not set the broken bones of my soul together? Had I been afflicted with Strangury or Stone, had I dissolved the Stone in my heart by the tears of a really godly sorrow? I had ne<g ref="char:EOLhyphen"/>ver
+<pb n="16" facs="tcp:36814:10"/> been oppressed with this Calenture, had not that more fatal one of anger needed a cure; was not this Feaver, this Sickness or that Disease prescribed by God as medicinal for this or that Sin? And when he hath ransacked his soul to the botom and found out the troubler of <hi>Israel,</hi> the <hi>Jonah</hi> who raiseth these Storms and Tempests, the Rebel who disquiets him in his peace, what can be the issue of it, but that he bring him forth and stone him to death; I mean that he should be per<g ref="char:EOLhyphen"/>fectly sorry for his sin, and make an absolute reforma<g ref="char:EOLhyphen"/>tion, least if he return to his wickedness, a worse thing fall unto him.</p>
+            <p>We must imagine him only the shape of a man, who makes no serious reflexion on his ways, when the hand of God presseth him sore.</p>
+            <p>This was the case of the <hi>Israelites,</hi> for, <hi>when he slew them,</hi>
+               <note place="margin">
+                  <hi>Ps.</hi> 78.34.</note>
+               <hi>then they sought him early.</hi>
+            </p>
+            <p>Nay, when God chastens man for sin, will it not make him to bind himself by most solemn vows and promi<g ref="char:EOLhyphen"/>ses that if he will remove this burthen from his Shoul<g ref="char:EOLhyphen"/>ders, he will utterly renounce those sins which have made him so miserable, and live hereafter in a stricter observance of his commands.</p>
+            <p>What multitudes had infallibly perished, had not af<g ref="char:EOLhyphen"/>flictions preserved them from it?</p>
+            <p>This is that Shepherds Crook whereby God returns his wandring Sheep to the Fold; Thus the Prodigal Son was brought back again to his Fathers house, he had never thought of the great plenty in his Fathers Fa<g ref="char:EOLhyphen"/>mily, had he not been constrained to feed on Husks.</p>
+            <p>Thus the Prophet <hi>Jonah,</hi> when he was in the belly of the Whale poured forth his prayers unto God.</p>
+            <p>Thus <hi>Susanna</hi> cryed unto the Lord in her distress.</p>
+            <pb n="17" facs="tcp:36814:10"/>
+            <p>And thus the Disciples in a Storm implor'd the as<g ref="char:EOLhyphen"/>sistance of Christ, <hi>Master save us, we perish.</hi>
+            </p>
+            <p>What School more proper for the instruction of men, then that of affliction? when his Judgments are in the Land, <hi>the Inhabitants of the world shall learn Righteousness;</hi> for those evils he inflicts upon others are warning-pei<g ref="char:EOLhyphen"/>ces for all.</p>
+            <p>For as the indulgent Mother loves not to behold a mote on the face of her beloved Infant, but will imme<g ref="char:EOLhyphen"/>diately wipe the same away; So neither can our hea<g ref="char:EOLhyphen"/>venly Father endure the least blemish of sin on the Souls of his dear Children, but will presently cleanse it with the water of affliction. If thou sin to day, he will afflict to morrow. <hi>For great are, &amp;c.</hi>
+            </p>
+            <p>The Third Reason why the Lord visits us with af<g ref="char:EOLhyphen"/>flictions is to make tryal whether with the Silver-smith we had rather make Shrines for <hi>Diana,</hi> and well paid for our labour, then to erect Temples for the worship of a crucified Jesus, to meet with his Cross for our pains.</p>
+            <p>Yes, and thus the goodly fellowship of the Prophets and noble Army of Martyrs were tryed, who were so far from denying the truth, that they did couragiously abide the stroak of death, and choose to loose their lives in tribulation.</p>
+            <p>For this <hi>Rod</hi> and this <hi>Staff comforted them</hi> with the hopes of their deliverance from the servitude of cor<g ref="char:EOLhyphen"/>ruption into the glorious liberty of the Children of God.</p>
+            <p>This was that which comforted these defenders of Christianity, that, whereon they cast their eye in the midst of all the unexpressible tortures the powerful wit<g ref="char:EOLhyphen"/>ty malice of the World was able to inflict. With what
+<pb n="18" facs="tcp:36814:11"/> incomparable violence were their Souls separated from their bodies? Nevertheless when mortal members yielded to the Sword of Persecution, then they beheld (though with an eye drenched in bloud and tears) the bright glory which attended them; Yes, and saw (as in a mirrour) the Thorns of those prodigious sufferings disposed into Lawrels and Crowns.</p>
+            <p>There the Proto-Martyr St. <hi>Stephen</hi> saw the Stones which pelted him into Heaven, as so many Rubies and pretious Stones to adorn that Crown which was to be<g ref="char:EOLhyphen"/>girt his Brows. By this fiery tryal of Persecution, are the Children of God and Sons of <hi>Belial</hi> distinguish<g ref="char:EOLhyphen"/>ed, for the former will become red with bloud to pre<g ref="char:EOLhyphen"/>serve devotion, but the latter will betray it, for they depart from God in the time of Tribulation.</p>
+            <p>Many may with that Rock St. <hi>Peter</hi> make solemn Pro<g ref="char:EOLhyphen"/>testations to follow Christ and stick close to him, but when they come to <hi>Pilat</hi>'s Hall the faint blasts of a Virgins breath will shake the Rock, and stagger their resolution; But he who follows Christ for the Miracles and not for the Loaves, who courts Religion for her Beauty, and not for her dowry, will not be ashamed to confess his Master, though he is most certainly assured to be mounted on Gibbets and undergo the most rigid Tortures power is able to invent.</p>
+            <p>Tribulation is Vertues Furnace, the stouter and more masculine it is, the more it glittereth in affliction.</p>
+            <p>This is that rich Diamond which can endure the Wheel, whilst all other things are like Pebbles, some<g ref="char:EOLhyphen"/>what glittering, but little worth.</p>
+            <p>Let any one judge how noble and glorious a specta<g ref="char:EOLhyphen"/>cle it is to behold an invincible courage, counterbuffl'd with Storms and Tempests, on whom it seemeth Heaven would burst and fall in peices; Is it not admirable to be<g ref="char:EOLhyphen"/>hold
+<pb n="19" facs="tcp:36814:11"/> him amidst the ruins of the World, and threats of the Air, always standing like to a great Brazen <hi>Colossus,</hi> valuing them at no higher rate then Mists and small Flakes of Snow,? because he is compleatly taught that in the School of Vertue we learn to despise temporal pleasures and to trample on those vanities which others have so much laboured and hunted after.</p>
+            <p>Here we are taught mortification and the exercise of those godly and Heroick Actions which give the Soul an antepast of Heaven in this mortal life, and an en<g ref="char:EOLhyphen"/>franchisement from the fear of death.</p>
+            <p>
+               <hi>Jovinian</hi> a King having two Vessels of Wine in his Pallace, the one sweet, the other sowr, Decreed that whosoever would tast of the sweet wine, should first drink of the sowr; whosoever in like manner would drink of those Rivers of Pleasures streaming at Gods Right Hand, must not refuse to pledge Christ first in his bitter cup of afflictions.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Get thee behind me Satan,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 16.23.</note>
+               <hi>for thou art an offence,</hi> was the rebuke the Son of God gave St. <hi>Peter</hi> when he would have disswaded him from suffer<g ref="char:EOLhyphen"/>ing both the most cruel and ignominious death of the Cross, and then assembling his whole Colledge of Dis<g ref="char:EOLhyphen"/>ciples together, solemnly declared that as they had been the companions of his life, so also must they go share with him in his sorrows, as he, so they likewise must suffer, when the Bridegroom is gone, the Children of the Bridegroom must weep as well as fast.</p>
+            <p>For what can be more rude and unhandsome, what can we stile more unbecoming and undecent, than to see the head crowned with Thorns and the Servants en<g ref="char:EOLhyphen"/>wrapped with softness? To see our Jesus in his Agony, and Good-Friday-apparel, and our selves in our jollity, or <hi>Easter</hi> Robes? To see Christ toyling under the bur<g ref="char:EOLhyphen"/>then
+<pb n="20" facs="tcp:36814:12"/> of the Cross, and we dancing in our Sports? To see him drinking Vinegar and Gall, and we pleasing our foolish appetites? To see Christ of his Cross make a Ladder to ascend his Throne of Glory, and we to stand here with folded arms? To see him travailing through Briars and Thornes, and we unwilling to tread on any thing but Roses?</p>
+            <p>Is not this as incongruous as to see Princes walking on their feet, and Servants riding on Horseback? Is not this as great a disunion, as to see the Master in Russet, and the Servant in Purple, faring deliciously every day?</p>
+            <p>If therefore we desire to spell out our names amongst his Servants, we must learn Christs Cross over, and not be ashamed of his Livery, the Purple Robe, but must tread the path marked out with that bloud shed for our Redemption.</p>
+            <p>For observe that <hi>Dilemma</hi> of Christ, and you'll see there are no thoughts this Cup should pass from us, <hi>He that will save his life,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 16.25.</note>
+               <hi>shall loose it; and he that will loose it shall save it.</hi>
+            </p>
+            <p>Accept of what part you please, there is a life to be lost, an Hell either here or hereafter, But who is more stupid to the extreamest misery, than he who will rui<g ref="char:EOLhyphen"/>nate his grounds for Heaven, to gain a little clay on earth? and who is more wise and fortunate then he, who will lose his life for him? because when Christ shall ap<g ref="char:EOLhyphen"/>pear attended with Myriads of Angels, the vast Retinue of Coelestial Courtiers, he will confer rewards accord<g ref="char:EOLhyphen"/>ing to the deeds.</p>
+            <p>'Tis reported that a Famous Captain should say to a Souldier dying with him, Hadst thou done nothing worthy repute, but remained obscure all thy life time, yet here is honour enough, that to day thou dyest with thy Master.</p>
+            <pb n="21" facs="tcp:36814:12"/>
+            <p>What honour and glory then is conferred upon thee, poor dust and ashes! when God picks thee out as the most couragious of his Souldiers to fight in his defence? If he hath reserved pleasures unspeakable for them who barely love him, what Lawrels and Crowns are prepa<g ref="char:EOLhyphen"/>red for them, who love him unto death?</p>
+            <p>Where is thy courage therefore O Christian? where is thy spirit? when thou repinest at whatever God lays on thee of this sad nature? <hi>dost thou do well to be an<g ref="char:EOLhyphen"/>gry?</hi> Ransack and search into the bottom of thy soul, and see what it is which troubles thy repose.</p>
+            <p>'Tis to wean thee from the love of the World, 'tis to make thee reform and lead a new course of life, 'tis to try thy patience and love to him, to see if it be so entire that nothing can draw thy affections from him.</p>
+            <p>'Tis out of pure tenderness and kindness to thy soul, that God sends thee afflictions in thy body, crosses in thy state, yes, every sad accident is applyed by that wise Physician of Heaven, to eat out the proud Flesh of our corrupt nature, for he doth not afflict willingly, and grieve the Children of men; He is as it were grieved himself that he is constrained and driven to make use of this medicine, to heal us of our more deadly wounds and putrified sores.</p>
+            <p>Is it not an argument of my insensibility, to com<g ref="char:EOLhyphen"/>plain of him who nips and pincheth me, to raise and a<g ref="char:EOLhyphen"/>waken me out of a deep Lethargy? and is it not to awa<g ref="char:EOLhyphen"/>ken us out of the Lethargy of Sin, that God pincheth us with hardness?</p>
+            <p>And what a great influence would it have upon our lives? How would it blunt and dull the edge of evils? what a mighty salve and cure to a mind discomposed by sorrow, seriously to consider, Heaven is not only con<g ref="char:EOLhyphen"/>cerned therein, but they proceed even from the hand
+<pb n="22" facs="tcp:36814:13"/> of that God, <hi>who in the midst of Judgment thinks of mer<g ref="char:EOLhyphen"/>cy;</hi> and like a mild and compassionate Father, pitieth his child when he is correcting him.</p>
+            <p>For if thou knowest this and remain impatient, go to the Beasts, consult Tygers and Lions, who will be bea<g ref="char:EOLhyphen"/>ten of their Masters and not repine.</p>
+            <p>He who extended my Arteries and Veins; he who said unto me <hi>live,</hi> when I was but in the Embryo, still in my bloud;</p>
+            <p>'Tis he who made me, that strikes me, he who mode<g ref="char:EOLhyphen"/>rates the World, that thinks it convenient to afflict me.</p>
+            <p>And what, Shall I fight against my God, and contend with my Maker? shall I dare to struggle with him, who can look me into nothing? yet this, and much more do I when I remain impatient under the heat and Toyl of the day of sorrows.</p>
+            <p>To prevent which we must stedfastly resolve to strengthen our courage in bearing our afflictions. First, With an unruffled and quiet mind; we must not in the least murmure, though we pass through the Solitary Wilderness in the saddest and most deserted condition, if it will conduct and lead us to the Land of <hi>Canaan,</hi> we must not be weary of our burthen, but strive to support it with the most serene temper of spirit, least o<g ref="char:EOLhyphen"/>therwise, we should dare to charge God foolish<g ref="char:EOLhyphen"/>ly.</p>
+            <p>But then again in the second place we must also ex<g ref="char:EOLhyphen"/>press our thankfulness to God that he hath thought us worthy to suffer for the name of Christ extolling and praising him that he hath made us miserable.</p>
+            <p>For as the General places the stoutest men opposite to the hottest services, and sharpest encounters, not that he ows them a spite or bear them a grudge, but to ma<g ref="char:EOLhyphen"/>nifest
+<pb n="23" facs="tcp:36814:13"/> the confidence he reposes in their Man-hood and to lead them to triumph.</p>
+            <p>Yes, and this is the method of our heavenly Father to pick out the best spirited of his Servants, and the chiefest of his Darlings, that he may crown them with the most noble triumphs, and to conduct them to the greatest honours.</p>
+            <p>Let others therefore shrink at the sharp combats of the World, let them cowardly faint under the strong opposition of their adversaries; but as for me, saith the undaunted Christian, the more enemies I encounter, the greater will be my Crown, the harder the labour the more noble my reward; when my enemies encrease I'll call new bloud into my veins; let them overpower me with their multitudes, I will overcome them by my courage; let them come about me like Bees, and encompass me in on every side, yet in the name of my God, I will destroy them.</p>
+            <p>Blessed be my God, that I am the man appointed to fight the Lords battels; that he hath begirt me with perils and encircled me with afflictions; I have vowed and am stedfastly purposed to behave my self so coura<g ref="char:EOLhyphen"/>giously that (humanely be it spoken) it shall not repent him of his choice.</p>
+            <p>Blessed be my God, that I am ranked amidst the first of Christian Souldiers; that he looks upon me poor and sinful wretch that I am, capable of such glorious atchievements; Iet others then swell with fatness, but O my God, let me be chastened every morning; let o<g ref="char:EOLhyphen"/>thers come in no misfortune, but oh! scourge me and and lash me in this World, that I may not be torment<g ref="char:EOLhyphen"/>ed in that which is to come; let me eat my Garlick and Onyons in this <hi>Aegypt,</hi> that I may feed on the Grapes and Pomegranats in the Land of Promise; let
+<pb n="24" facs="tcp:36814:14"/> me here feed upon husks, that I may be refreshed with the fatted Calf at the Supper of the Lamb. <hi>Amen.</hi>
+            </p>
+            <p>And thus you have seen the Righteous in trouble like the <hi>Israelites</hi> in exile, but now the Lord like <hi>Moses</hi> comes to deliver them: hitherto God seemed to sleep, as Christ in the Storm: but now he rebukes the Tempest, and the obedient waves bow themselves, into a Calm, for though, <hi>great are the troubles of the Righteous, yet the Lord will deliver him out of all.</hi>
+            </p>
+            <p>Consult but the Old Trrnslation, and you will find the words in the present tense.</p>
+            <q>Eripit eum ex omnibus illis.</q>
+            <p>Which Phrase is frequent and obvious among the Promises in Holy Writ, to intimate unto us the speed and certainty of the things promised.</p>
+            <p>God will not leave his Children in endless miseries, they may wander many years in the Tents of <hi>Kedar,</hi> where there is nothing but blackness and darkness, not the least glimmering of joy, yet still he will bring them at length to the Mountains of joy and gladness.</p>
+            <p>Thus the Prophet assureth us, <hi>He gives them beauty for ashes,</hi>
+               <note place="margin">
+                  <hi>Isa.</hi> 61.3.</note>
+               <hi>the oil of joy for mourning, and the garments of gladness for the spirit of heaviness.</hi>
+            </p>
+            <p>'Tis the method of Heaven to place mourning before joy, as Night before Day: <hi>I will smite, and I will make whole,</hi> First the punishment, then the blessing.</p>
+            <p>Who would have thought when the <hi>Israelites</hi> were Forty years in the Wilderness they should ever have came into the Land flowing with Milk and Ho<g ref="char:EOLhyphen"/>ney?</p>
+            <p>Who would have thought, when <hi>Jonah</hi> was cast in<g ref="char:EOLhyphen"/>to the Sea, to have met him again preaching at <hi>Nine<g ref="char:EOLhyphen"/>veh?</hi> who would have thought when <hi>Nebuchadnezzar</hi>
+               <pb n="25" facs="tcp:36814:14"/> was grasing in the Forrest to have seen him again go<g ref="char:EOLhyphen"/>verning in <hi>Babel?</hi> who would have thought when <hi>Jo<g ref="char:EOLhyphen"/>seph</hi> was on Prison, to have seen him advanced Lord o<g ref="char:EOLhyphen"/>ver <hi>Pharaoh</hi>'s house? who would have thought when <hi>Job</hi> was in the Dunghil, that he should be happier and richer then before his misfortunes?</p>
+            <p>These are the great acts of mercy, which make the faithful sing with <hi>Miriam,</hi>
+               <note place="margin">
+                  <hi>Exod.</hi> 15.21.</note>
+               <hi>the Lord hath triumphed va<g ref="char:EOLhyphen"/>liantly,</hi> did not the fire that insatiable and gluttonous E<g ref="char:EOLhyphen"/>lement loose its devouring nature, when the three <hi>Ju<g ref="char:EOLhyphen"/>daean</hi> Youths were cast into the <hi>Chaldaean</hi> Furnace, though it consumed their enemies who threw them in, yet it hurted not them, but caressed them with amo<g ref="char:EOLhyphen"/>rous embraces, as if they had been flames of love; in<g ref="char:EOLhyphen"/>somuch there was neither an hair of their head perish<g ref="char:EOLhyphen"/>ed, nor the smell of fire upon their cloaths,, for thou, <hi>O thou mighty God of</hi> Jacob <hi>didst deliver them.</hi>
+            </p>
+            <p>Nay, thus he brought <hi>Jacob</hi> from Exile, thus he de<g ref="char:EOLhyphen"/>livered St. <hi>Peter</hi> from the hands of King <hi>Herod,</hi> and all the expectation of the <hi>Jews.</hi>
+            </p>
+            <p>Why art thou then afraid O my Soul, <hi>and why art thou so disquieted within me? O still put thy confidence in God for he will deliver thee.</hi>
+            </p>
+            <p>When <hi>Herod</hi> sent forth his Troop of Horse to slay the poor innocent Infantry of <hi>Bethlehem,</hi> to the end he might destroy him who was born King of the Jews, tydings came at last to <hi>Mary</hi> and <hi>Joseph</hi> in <hi>Aegypt, that he was dead, who sought the young Child</hi>'s <hi>life.</hi>
+            </p>
+            <p>Even so, when our Banishment and Sickness, bon<g ref="char:EOLhyphen"/>dage and scarcity are fully compleated, Tydings shall come that our troubles are dead,<note place="margin">
+                  <hi>Exod.</hi> 34.6.</note> and the heart shall dance and sing that Song of <hi>Moses The Lord, the Lord Strong, Merciful and Gracious, Slow to Anger, but abounding in Goodness and Truth.</hi>
+            </p>
+            <pb n="26" facs="tcp:36814:15"/>
+            <p>The same hand that woundeth, cureth, it is God who maketh the wound and bindeth it up, He smiteth, and the powder of his mercy maketh it whole.</p>
+            <p>Had <hi>David</hi> put a stop and period at troubles, discours<g ref="char:EOLhyphen"/>ing of nothing but Rods, than might have the Righteous have complained I have cleansed my heart in vain, but as there is a flux and reflux of the waters of the Sea, so are there the ebbings as well as the flowings of sorrows, here lies <hi>Joseph</hi> in the Prison, and <hi>Jeremiah</hi> in the Dunge<g ref="char:EOLhyphen"/>on, <hi>Job</hi> in ashes, <hi>Jacob</hi> in the Field, <hi>David</hi> in the Wil<g ref="char:EOLhyphen"/>derness, and <hi>Abraham</hi> in Exile, <hi>Daniel</hi> in the Den, and the three Children in the Furnace, but at last comes the year of <hi>Jubilee</hi> and the Prisoners of hope are no long<g ref="char:EOLhyphen"/>er in Chains,<note place="margin">
+                  <hi>Zach.</hi> 9.12.</note> but freed from Captivity and Thral<g ref="char:EOLhyphen"/>dom.</p>
+            <p>Upon which account they are stiled Prisoners of hope, because they may confidently rely upon God to deliver them, for rather than <hi>Elijah</hi> shall starve, the Ravens shall feed him, rather then <hi>Jonah</hi> shall drown, a Whale shall swallow him up, if the Glutton be cruel and piti<g ref="char:EOLhyphen"/>less, doggs shall be kind and compassionate.</p>
+            <p>For can a Mother commiserate the trickling tears of her crying Infant, and will the Father of mercy be ob<g ref="char:EOLhyphen"/>dure to thee? are the tears of an infirm <hi>Lazaro</hi> so elo<g ref="char:EOLhyphen"/>quent and Rhetorical that they will force compassion from the beholders eyes, and will not thy wounds se<g ref="char:EOLhyphen"/>conded with the intercession of a crucified Jesus move the God of Heaven? doth he cloath the Lilly and the Rose which neither spinn nor toyl with such beauty and glory, and will not he adorn thy head with hal<g ref="char:EOLhyphen"/>lowed flames? which was environed with Thorns, for the maintaining of his Truth and Religion? hath not God promised to deliver thee and will he break his Vows? Is not a martyred soul a friend of Gods? and is
+<pb n="27" facs="tcp:36814:15"/> he wont to forsake his Favourites? did he not once speak peace unto thee? and is it usual for him to recall his words? Nay, in a word, did not he smile upon thee, when thou wert in the greatest agonies, and are his smiles deceitful?</p>
+            <p>Rest satisfied therefore, and quiet thy self with the rich expressions of his love, and full assurance of obtain<g ref="char:EOLhyphen"/>ing the promise to set with <hi>Abraham Isaac</hi> and <hi>Jacob</hi> in the Kingdom of God.</p>
+            <p>We are not healed so soon as we are bruised, but our deliverance is deferred for a while to see how patient<g ref="char:EOLhyphen"/>ly we demean our selves waiting the Lords leisure, as it is said of the Prophets Vision, <hi>though it tarry,</hi>
+               <note place="margin">
+                  <hi>Hab.</hi> 2.3.</note>
+               <hi>wait for it,</hi> for it will most assuredly come, it will not tarry, and so in the text,<note place="margin">
+                  <hi>Ps.</hi> 55.</note> though the Righteous have troub<g ref="char:EOLhyphen"/>les yet they are not everlasting ones; and so again, <hi>he will not suffer the Righteous to fall for ever.</hi>
+            </p>
+            <p>Whilst the Righteous are in trouble they seem as it were in a trance, dead for a while, but at length they shall come forth as <hi>Lazarus</hi> from the grave; <hi>mourning may endure for a night, but joy cometh in the morning,</hi> how shall this therefore content the afflicted soul, that he shall be delivered when made perfect through tribula<g ref="char:EOLhyphen"/>tion! How may this cordial revive a wounded and drooping spirit, making it to burst forth in the expres<g ref="char:EOLhyphen"/>sions of <hi>David, By this I know that thou favourest me,</hi>
+               <note place="margin">
+                  <hi>Ps.</hi> 41.11.</note>
+               <hi>for my enemies dont triumph over me.</hi>
+            </p>
+            <p>When old <hi>Eli</hi> heard the sad threatnings of God a<g ref="char:EOLhyphen"/>gainst him, the destruction of his Family, the loss of the Priest-hood, the cutting off both his Sons in one day, all which were afflictions of the heaviest nature, never<g ref="char:EOLhyphen"/>theless the sole consideration that <hi>it was the Lord,</hi>
+               <note place="margin">1 <hi>Sam.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> made him cry out, <hi>Let him do what seemeth him good.</hi>
+            </p>
+            <p>If an excess of joy be ever allowable, certain it is
+<pb n="28" facs="tcp:36814:16"/>
+               <hi>when we fall into divers temptations</hi> of tryal, otherwise, <hi>Mirth what meaneth it? and laughter it is madness.</hi>
+            </p>
+            <p>Is the Lilly less fair, or the Rose not so odoriferous and fragrant, when environed with thornes? neither is the Spouse of Christ his Church, less beautiful and comely, because she is militant and always in war<g ref="char:EOLhyphen"/>fare.</p>
+            <p>Why art thou then afraid O my Soul, or why dost thou repine at adversity? especially since God hath laid it as the foundation, at least <hi>medium,</hi> to eternal feli<g ref="char:EOLhyphen"/>city? art thou poor? alas! how canst thou want if God be with thee? or the rich, what have they in possession when God is afar off, St. <hi>Paul</hi> tells us how the <hi>Hebrews</hi> with joy sustained the rapine of their goods,<note place="margin">
+                  <hi>Heb.</hi> 11.16.</note> because they knew there was a more durable treasure and incomparably better inheritance prepared for them.</p>
+            <p>What is it therefore which troubles thy repose? dost thou bewail the loss of a Parent, Relation or Friend? Oh consider with thy self, he was not born to live al<g ref="char:EOLhyphen"/>ways and perhaps like the Righteous, was snatched a<g ref="char:EOLhyphen"/>way earlier <hi>from the evil to come.</hi>
+            </p>
+            <p>Moreover, If you truly love God (as who cannot but love that which is nothing but essential purity it self) How canst thou be afflicted at the dissolution of a man? since if he perish not to God, he perish not to thee, and we must not be sorry as men without hope.</p>
+            <p>
+               <hi>Why art thou then so sad, oh my soul, and why art thou so disquieted within me?</hi> dost thou groan under the pres<g ref="char:EOLhyphen"/>sures of an infirm constitution? remember with thy self we should not covet to enjoy life, but according to the tenour of its grant, we breath under constellations which by their variety of influences create variety of humors and distempers; and if this be convenient for
+<pb n="29" facs="tcp:36814:16"/> the good of the universe, shall not private respects and particular interests give place thereunto? shall I mur<g ref="char:EOLhyphen"/>mur against my God in grumbling at my sickness? or rather, ought I not thankfully accept it as a present from the most merciful and benign parent, ordained either as a chastisement of my sins, or tryal of my ver<g ref="char:EOLhyphen"/>tue? and blessed is that sickness whose pains lead to sal<g ref="char:EOLhyphen"/>vation, blessed is that war which ends in everlast<g ref="char:EOLhyphen"/>ing peace.</p>
+            <p>What is it then which makes thee thus disconsolate? do the Walls of a Prison affright thee? lift up thy eyes unto the Hills, and view those immense spaces above the Heavens designed as a praemium of thy Restraint; for the deprivation of a little fresh air, and some other contentments depending on liberty, what spiritual en<g ref="char:EOLhyphen"/>tertainments mayst thou hope to enjoy, when Angels are recorded to have accompanied not only St. <hi>Peter,</hi> but also <hi>Paul</hi> and <hi>Silas</hi> in the Prison; there thou art free from envy and detraction,, opprobries and calum<g ref="char:EOLhyphen"/>nies; for where is that malice? Oh! where is that cruelty will rage upon the prostrate? however where is that wise Marchant who Trafficks for so rich a Pearl, so great a purchase, and will not venture something on the score of persecution?</p>
+            <p>Courage then, O my soul, and welcome the vexati<g ref="char:EOLhyphen"/>ons of hunger, cold, bonds and imprisonments, whips or scourges, ship-wrecks or nakedness, the perils of the Sea, City or Wilderness, as <hi>boni genii,</hi> good Angels sent from God to minister for them,<note place="margin">Heb. <hi>1.</hi> ult.</note> who are Heirs of Salva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>For what saith the sincere Christian,<note place="margin">
+                  <hi>Nehe.</hi> 6.11.</note> with <hi>Nehemiah</hi> shall such a man as I lye? shall such a man as I recant? am I a child of God, and shall not I fight his battels? am I a Christian, and shall not I fight under the Banner
+<pb n="30" facs="tcp:36814:17"/> of the Captain of our Salvation? how hath <hi>Solomon</hi> branded me for a Coward, and my strength small if I <hi>faint in the day of adversity?</hi>
+               <note place="margin">
+                  <hi>Pro.</hi> 24.10.</note>
+            </p>
+            <p>How can I want comfort in the midst of adversity and trouble,<note place="margin">
+                  <hi>Pro.</hi> 15.15</note> when a good conscience is a continual Feast?</p>
+            <p>With what confidence therefore will I rely upon my God! how patiently will I wait the Lords leisure, be<g ref="char:EOLhyphen"/>cause faith maketh no hast.<note place="margin">
+                  <hi>Isa.</hi> 28.16.</note>
+            </p>
+            <p>I will pride my self in my Chains, and will not be troubled at diseases, for though this Sickness may be unto the first, yet not unto the second death.</p>
+            <p>I will not flatter the Judge out of fear what man can do unto me, <hi>for whoso putteth his trust in the Lord shall be safe.</hi>
+               <note place="margin">
+                  <hi>Pro.</hi> 29.25.</note> Shall I betray the cause when God hath appointed it to try me? shall I offend my bretheren when St.<note place="margin">
+                  <hi>Rom.</hi> 14.</note>
+               <hi>Paul</hi> had rather die than be guilty of being a stumbling block unto any? shall I charge my Consci<g ref="char:EOLhyphen"/>ence when its wounds are more intollerable then the tortures of the body? shall I apostatize from my pro<g ref="char:EOLhyphen"/>fession and turn from the faith, when at my enrolment a member of Christ, I so solemnly covenanted with him to maintain it unto my lives end?</p>
+            <p>No, I will valiantly resist the temptations of the three Cardinal enemies of my Salvation, the World, Flesh and the Devil; let my Friends tempt me like <hi>Job</hi>'s Wife, let my Flesh flatter me like <hi>Eve,</hi> let my Perse<g ref="char:EOLhyphen"/>cutors bribe me like <hi>Balak,</hi> let them who suffer with me revolt and abandon me, yet, like <hi>Joshua I will still serve the Lord,</hi>
+               <note place="margin">
+                  <hi>Josh.</hi> 24.14.</note> and though every one be offended be<g ref="char:EOLhyphen"/>cause of Christ, yet will I never be offended, for he is instead of comfort, health and liberty unto me.</p>
+            <p>How great were the troubles of <hi>Joseph, yet the Lord did deliver him out of all?</hi> how many were the afflicti<g ref="char:EOLhyphen"/>ons
+<pb n="31" facs="tcp:36814:17"/> of <hi>Abraham,</hi> how many were the sorrows both of <hi>David</hi> and <hi>Job,</hi> yet thou O my God didst deliver them, and therefore thou canst and wilt deliver me, for thou art my Castle and strong Tower of defence, Oh! hast thee to deliver me, that my enemies may not triumph over me, yet if thou dost not, I will follow the exam<g ref="char:EOLhyphen"/>ples of <hi>Shadrach, Meshach</hi> and <hi>Abednego,</hi> and will not do evil to escape danger.</p>
+            <p>For shall I shrink at this, when Christ hath done so much for me? Oh! the blewness of the stripes, and ghastliness of the wounds! Oh the pricks of the thorns and piercings of the Nails! all which and much more he patiently submitted to, to excuse me from the misery I had justly deserved, and what shall I deny my Saviour sopoor a kindness, so small a request, as to do something for him, who hath done all things for me? shall he give me his heart and his bowels, and shall not I return him the same? Is there a flame in him, and no spark in me? no reflecting of a Sun-beam? or repairing of the Stream into the Ocean?</p>
+            <p>No with <hi>Hester, if I perish, I perish,</hi> for I am purposed to observe his righteous judgments.</p>
+            <p>If my Purse suffer, my mony doth but perish; if my body be imprisoned, my pleasures do but perish, if sickness attend me, <hi>Lord, if thou wilt, thou canst make me whole.</hi>
+            </p>
+            <p>In whatsoever state or condition therefore I am, as Holy <hi>David</hi> so will I <hi>comfort my self in the Lord my God,</hi>
+               <note place="margin">1 <hi>Sam.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.6.</note> this is the Staf on which I will lean, for though earthly Crowns are made of Gold, yet heavenly Diadems are made of the thorns of tribulation, I will not therefore look for pleasures in my way, till I have passed the nar<g ref="char:EOLhyphen"/>row Gate, and am arrived at the place, where there shall be no more hunger, thirst or cold, but all tears
+<pb n="32" facs="tcp:36814:18"/> shall be wiped from our eyes, and the Robes of Scarlet, washed white in the bloud of the Lamb, who sitteth on the Throne for ever and ever.</p>
+            <p>To Whom with the Father and Holy Spirit, be all Ho<g ref="char:EOLhyphen"/>nour, Glory, Might, Majesty and Dominion now and for evermore, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="sermon">
+            <pb n="33" facs="tcp:36814:18"/>
+            <head>GODS LOVE TO LAPS'D MAN.</head>
+            <epigraph>
+               <q>
+                  <bibl>John <hi>3.16.</hi>
+                  </bibl>
+                  <p>For God so loved the World that he gave his only begot<g ref="char:EOLhyphen"/>ten Son, that whosoever believeth in him, should not perish, but have everlasting life.</p>
+               </q>
+            </epigraph>
+            <p>SUCH was the unexpressible goodness of God,<note place="margin">
+                  <hi>Heb.</hi> 1.1.</note> that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> having in many par<g ref="char:EOLhyphen"/>cels and in divers manners as the Apostle phra<g ref="char:EOLhyphen"/>seth it, revealed to men the things to come, sometimes by Visions and Dreams, as he frequently ap<g ref="char:EOLhyphen"/>peared unto <hi>Abraham</hi> and <hi>Jacob;</hi> sometimes by the coming of his Spirit upon the Prophets, for St.<note place="margin">2 <hi>Pet.</hi> 1.21.</note>
+               <hi>Peter</hi> informs us <hi>how holy men of God spake as they were taught being moved by the Spirit of the Holy-Ghost,</hi> such were <hi>I<g ref="char:EOLhyphen"/>saiah, Jeremiah</hi> and others; sometimes by dispatching unto us those immaterial Embassadors of his, the Holy and Blessed Angels, on their Embassies of love to man<g ref="char:EOLhyphen"/>kind, that he might reconcile them unto himself, and at last bring them to Glory. But in this latter Age of the World, <hi>he hath spoken unto us by his Son,</hi> he hath vouchsafed a mercy of such a quality and noble extent, it cannot but incite the most dull and sordid spirit to a pious commemoration of the Nativity of this Media<g ref="char:EOLhyphen"/>tor betwixt God and Man, especially, if we reflect on our own unworthiness, the nobility of the Person, or
+<pb n="34" facs="tcp:36814:19"/> on this as the only means for lapsed Mans recovery to his Primitive, nay, to a better state of happiness, then that which our First Parents enjoyed.</p>
+            <p>Upon which account our Holy Mother the Church, hath appointed this day for that solemn purpose, that all devout Christians should meet together to celebrate the Birth of our Redeemer, and to return our praises and thanksgivings to God, for his unspeakable love to Mankind in sending his Eternal Son, to assume our na<g ref="char:EOLhyphen"/>ture and to teach, and give examples of holy life, and at last to die for them, rise again, and ascend to Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>All on this one design, that every person in the World, that shall receive and obey him, shall be rescued from e<g ref="char:EOLhyphen"/>ternal death, and then made partaker of everlasting life.</p>
+            <p>For this gift of his only begotten Son, is a mercy of such a weight, that we cannot sufficiently admire and esteem it.</p>
+            <p>We with the Husband-men in the Parable, did evil<g ref="char:EOLhyphen"/>ly entreat the other Messengers he before sent unto us, He now therefore sends us his Son, saying, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>they will reverence my Son.</hi>
+            </p>
+            <p>Amongst the constellation of all the Glorious Attri<g ref="char:EOLhyphen"/>butes of God, none shine with a more Orient Lustre, than that of his Mercy; This is his <hi>Benjamin</hi> in which he takes the greatest pleasures, and most refined de<g ref="char:EOLhyphen"/>light.</p>
+            <p>Insomuch, that he would not manifest himself unto us in the Thunder-claps and Lightning-flashes of Mount <hi>Sinai,</hi> but in the Mount of <hi>Olives,</hi> a Mount of peace and sweetness, for, <hi>he so loved the World that he gave his on<g ref="char:EOLhyphen"/>ly begotten Son,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>that every one believ<g ref="char:EOLhyphen"/>ing
+<pb n="35" facs="tcp:36814:19"/> on him, and receiving him, should not perish, but have everlasting life.</hi>
+            </p>
+            <p>In which words I consider.</p>
+            <p>First, The impulsive or efficient cause of Mans Re<g ref="char:EOLhyphen"/>demption, the love of God, <hi>God so loved.</hi>
+            </p>
+            <p>Secondly, the persons to whom he express'd this love, the World, <hi>God so loved the World.</hi>
+            </p>
+            <p>Thirdly, The Instrument or Person by whom this Reconciliation was wrought, <hi>the only Begotten Son.</hi>
+            </p>
+            <p>Lastly, The end or design of this Gift, <hi>that whosoever believeth in him, should not perish, but have life everlast<g ref="char:EOLhyphen"/>ing.</hi>
+            </p>
+            <p>We begin with the First,</p>
+            <p>The word God is variously taken in Holy-Writ,<note place="margin">
+                  <hi>Exod.</hi> 22.28</note> sometimes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> abusively, when it is attributed to Angels or Men., to express the grandeur and digni<g ref="char:EOLhyphen"/>ty of their office and place, thus it is used, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>thou shalt not revile the Gods,</hi> So again <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>He is a Judge amongct the Gods;</hi>
+               <note place="margin">
+                  <hi>Ps.</hi> 82.1.</note> and so again <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>I have said ye are Gods.</hi>
+               <note place="margin">v. <hi>6.</hi> ib.</note>
+            </p>
+            <p>Sometimes the word is used <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, falsly, when they are erroneously stiled by this name, and reputed as God, as the Heathen Idols, who were the Workman<g ref="char:EOLhyphen"/>ship of men, and thus it is used by <hi>Moses</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Turn ye not unto I<g ref="char:EOLhyphen"/>dols, nor make to your selves Molten Gods,</hi>
+               <note place="margin">
+                  <hi>Levit.</hi> 19.4.</note> and so like<g ref="char:EOLhyphen"/>wise by holy <hi>David,</hi>
+               <note place="margin">
+                  <hi>Psalm.</hi> 96 5.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>For all the Gods of the Heathens are Idols, but it is the Lord who made the Heavens.</hi>
+            </p>
+            <p>But the word God is taken <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in a true and right sense, when it is either used <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for the whole Sa<g ref="char:EOLhyphen"/>cred Trinity, as that of St. <hi>John</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">
+                  <hi>John</hi> 4.24.</note>
+               <hi>God is a Spirit,</hi> and so again by St. <hi>Paul,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>If God be for us who can be against us?</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 8.31.</note> Where is not
+<pb n="36" facs="tcp:36814:20"/> meant any particular single Person, but the Whole Tri<g ref="char:EOLhyphen"/>nity, or Three Persons together.</p>
+            <p>And so when it is used <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> when one only of the Divine Persons are signified, and St. <hi>Paul</hi> useth it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>I thank God through Jesus Christ our Lord,</hi> and so again, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note place="margin">
+                  <hi>John</hi> 17.3.</note>
+               <hi>This is life eternal that they know thee, the Only True God,</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 20.21.</note>
+               <hi>and whom thou hast sent Jesus Christ.</hi>
+            </p>
+            <p>Where by the word God is not meant all the Three, but only the first Person the Father.</p>
+            <p>So also St. <hi>Luke</hi> useth it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>The Church of God which he hath purchased by his own bloud;</hi> So again by St. <hi>John,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>God manifested in the Flesh,</hi> in both which places is only meant the Second Person, the Son.</p>
+            <p>So also St. <hi>Luke,</hi> use it in another place only to sig<g ref="char:EOLhyphen"/>nifie the Holy-Ghost,<note place="margin">
+                  <hi>Acts</hi> 5.4.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Thou hast not lied unto Men, but unto God.</hi>
+            </p>
+            <p>By the word God in the Text is chiefly understood the Father, for though it may be applyed to all the three Persons,, yet because God the Father is the Fountain of action, he is most properly understood by this term, both in this and also in some other places of Scripture, as that of the Apostle, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">
+                  <hi>Gal.</hi> 4.4.</note>
+               <hi>When the Fulness of time was come, God sent forth his Son, made of a Woman, made un<g ref="char:EOLhyphen"/>der the Law,</hi> and so again, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">
+                  <hi>Rom.</hi> 8.3.</note>
+               <hi>God sending his own Son in the likeness of Sinful Flesh.</hi>
+            </p>
+            <p>Nay, Our Saviour himself was so far from ascribing this action solely to himself, that he doth not disown his
+<pb n="37" facs="tcp:36814:20"/> mission, that he received his authority from his Father to come into the World and save Sinners.</p>
+            <p>Thus you may may hear him declaring <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>I am not come of my self, but he that sent me is true,</hi>
+               <note place="margin">
+                  <hi>John</hi> 7.28.</note>
+               <hi>whom ye know not.</hi>
+            </p>
+            <p>And thus you have had the various readings of the word GOD in sacred History, and the definition ac<g ref="char:EOLhyphen"/>cording to St. <hi>John</hi> is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> God is love, and what Justice is it for all men to conclude the same.</p>
+            <p>For our Creation was an act of the Almightys, which proceeded not from any constraint, and tye of necessity, but from the abundant freeness and generosity of his Spirit.</p>
+            <p>He should not have needed, unless he had pleased to mould us into Shape, and form us into Creatures.</p>
+            <p>What worth or merit can be alledged, miserable dust and ashes that we are? whereby we might claim a prerogative or Title to a Being.</p>
+            <p>Alas! it was undeserved; nevertheless he did it with<g ref="char:EOLhyphen"/>out force or compulsion, which was an Illustrious Act of his free grace and bounty, yet farr excelled by that much more eminent one, in the Redemption of us from the slavery and servitude of sin and Satan, yes, and re<g ref="char:EOLhyphen"/>instating of us in a better condition, then that which our First Parents so justly forfeited.</p>
+            <p>To love us before we were, I confess is great love; but to love us when we had rendred our selves vile, yea, and worse then nothing, what can it be stiled, but the heighth of love?</p>
+            <p>To love us in our non-entity is an Embleme of a most Noble Spirit, but to love us after our monstrous ingra<g ref="char:EOLhyphen"/>titude, I cannot express it, (but in the words of the A<g ref="char:EOLhyphen"/>postle <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>the exceed<g ref="char:EOLhyphen"/>ing</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 2.7<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <pb n="38" facs="tcp:36814:21"/>
+               <hi>riches of his glorious and merciful grace;</hi> For man by his own default had lost his Original Righteousness and was trappand by Satan of all those blessings God of his special favour intended to bestow upon him.</p>
+            <p>We were so far from meriting this grand mercy, the gift of his only Begotten Son, that we had provoked him in the highest measure immaginable, and cast all his commandments behind us.</p>
+            <p>What can we therefore conceive should move him to give us his Son? surely not any loveliness, or at<g ref="char:EOLhyphen"/>tractiveness in us.</p>
+            <p>We were not such amiable and beautiful Creatures, as to cause a God to descend from the Battlements of Hea<g ref="char:EOLhyphen"/>ven, and subject himself to the miseries of humane na<g ref="char:EOLhyphen"/>ture; but his mercy and wonderful goodness alone which caused him to be invested with the garments of flesh, and our Restauration to happiness is to be at<g ref="char:EOLhyphen"/>tributed to nothing but the free Bounty and grace of God.</p>
+            <p>For Sense or Reason cannot scruple so evident a de<g ref="char:EOLhyphen"/>monstration; especially, if we consider against whom we thus transgressed, whose Law it was we thus con<g ref="char:EOLhyphen"/>temptuously trampled upon: whose I pray was it? but the Law of the great Legislator himself?</p>
+            <p>Did we not Rebel against the Supream Governour of Heaven? and Sin against him, <hi>who spreadeth out the Firmament like a Curtain, and limiteth the Sea, that it shall pass no further.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Isa.</hi> 9.7.</note>How doth the Prophet stile him, <hi>Wise in Counsel, won<g ref="char:EOLhyphen"/>derful in judgment, and admirable in the execution of his un<g ref="char:EOLhyphen"/>searchable Will.</hi>
+            </p>
+            <p>He is essential purity it self, <hi>He abhorreth iniquity with a perfect hatred, and utterly detests against every thing that is unjust.</hi>
+            </p>
+            <pb n="39" facs="tcp:36814:21"/>
+            <p>Yet still it was against him that we offended, <hi>who is cloathed with righteousness as with a garment, and holiness as a Breast-plate;</hi> It was him whom we provoked and con<g ref="char:EOLhyphen"/>sequently forfeited all natural right and possibility, to happiness; Yet <hi>stand still all ye that fear the Lord, and see what glorious things he hath done for our souls,</hi> Behold, how his restless love could never be at quiet until it had employed his Omniscience to contrive means and ex<g ref="char:EOLhyphen"/>pedients to reconcile both his Justice and Mercy, in re<g ref="char:EOLhyphen"/>conciling Sinners to himself.</p>
+            <p>Nay, and this merciful design by the Incarnation of his Son, He prosecuted in a way so worthy of him<g ref="char:EOLhyphen"/>self, and highly advantageous unto Man, <hi>that the An<g ref="char:EOLhyphen"/>gels</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>are ardently desirous to pry into them.</hi>
+               <note place="margin">1 <hi>Pet.</hi> 1.12.</note>
+            </p>
+            <p>How did this make St.<note place="margin">
+                  <hi>Rom.</hi> 5.8.</note>
+               <hi>Paul</hi> to cry out <hi>Suam com<g ref="char:EOLhyphen"/>mendat erga nos charitatem Deus, God commendeth his love towards us, in that whilst we were Sinners, Christ died for us,</hi> that is, when we wanted all motives to invite, and had nothing but our misery to cry aloud in the Ears of God for pity and compassion.</p>
+            <p>It is an usual expression, when we see one in a deplo<g ref="char:EOLhyphen"/>rable condition, to say, his poverty or misery speaketh in his behalf, but this is more eminent surely in our case, and it was our misery was so prevalent with the Almighty, as to give us his Son to save us, when all expectation and hope of Salvation was taken away.</p>
+            <p>And how did this Son express his love to Mankind, even as the Apostle tells us, <hi>He being in the form of God,</hi>
+               <note place="margin">
+                  <hi>Phil.</hi> 2.6, 7.</note>
+               <hi>thought it no Robbery to be equal with God, but made himself of no reputation, and took upon him the form of a Servant, and was made in the likeness of man, and being thus array<g ref="char:EOLhyphen"/>ed as a man he humbled himself, and became obedient unto death, even the death of the Cross.</hi>
+            </p>
+            <pb n="40" facs="tcp:36814:22"/>
+            <p>The sense of which is, that it was beneath so great a love, to love at a less rate then death it self, and from the supereminent heigth of glory, to stoop to the ex<g ref="char:EOLhyphen"/>treamest of indignities being abased to the bottom of abjectedness, that we might be exalted to the contrary extream.</p>
+            <p>O Eternal Fathet of mercys! thy love and goodness is unmeasurable and thy tender mercys are over all thy works, what a large portion hast thou given us of thy love? <hi>that to us a Son is Born, to us a Son is gi<g ref="char:EOLhyphen"/>ven Thou hast not dealt so with any other creatures, as thou hast done with man,</hi> on whom thou didst stamp thine own Image, cloathed him with immortality, and con<g ref="char:EOLhyphen"/>stituted him Supream over the rest of the Creati<g ref="char:EOLhyphen"/>on.</p>
+            <p>Nay, so great was thy goodness O God, that when we had lost our selves by departing from thee, we should still be found of the, <hi>in sending thy Son, to save and restore them that were lost.</hi>
+            </p>
+            <p>
+               <hi>Lord what is man? that thou shouldst so regard him, or the Son of man that thou shouldst thus respect him?</hi> with all thankfulness and praise we remember this day, we extol thy love, and the humble descent of the Son of thy love, Christ Jesus.</p>
+            <p>Oh grant that he may be conceived in the heart of every one of us, that by the operation of the Ho<g ref="char:EOLhyphen"/>ly Spirit Christ may dwell in us and we in him; Oh let that Spirit which was in our Saviour, inspire our hearts continually, with devout affections towards thee, that we may love thee beyond what our tongues can express, or hearts imagine, and so joyn cheer<g ref="char:EOLhyphen"/>fully with that Coelestial Chorus, who are still giving honour, blessing, power, glory and dominion to thee for ever and ever for this thy unspeakable love to
+<pb n="41" facs="tcp:36814:22"/> Mankind in giving thy only begotten Son, that all may have everlasting life.</p>
+            <p>And so I descend from the efficient cause of Mans Re<g ref="char:EOLhyphen"/>demption <hi>the love of God,</hi> to the parties whom he thus loved, and they come under a two-fold Consideration, their <hi>Quality</hi> and <hi>Quantity.</hi>
+            </p>
+            <p>We begin with the First, <hi>God so loved the World.</hi>
+            </p>
+            <p>By WORLD may be understood the whole compa<g ref="char:EOLhyphen"/>ges of all Beings, because every creature by the Passion and Resurrection of our Saviour received almost a new life, and was in some measure delivered from the bon<g ref="char:EOLhyphen"/>dage of corruption.</p>
+            <p>But by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the text is especially signified all Mankind and people in the World.</p>
+            <p>Thus St. <hi>Mathew</hi> useth it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Wo unto the World because of Offences.</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 18.7.</note>
+            </p>
+            <p>Yes, thus our Saviour himself interpreted it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>the World cannot hate you, but me it hateth;</hi> where is meant the People or Inha<g ref="char:EOLhyphen"/>bitants of the world.</p>
+            <p>After the same manner Satan is frequently stiled, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>the Prince of the World,</hi> because he rules and governs in the affections of men, and enthrones himself in their hearts.</p>
+            <p>But indeed Expositors are various in their constructi<g ref="char:EOLhyphen"/>ons thereof, some translate it, <hi>Sic Deus hominem dilexit God so loved the little World Man,</hi> some, <hi>hominem ad i<g ref="char:EOLhyphen"/>maginem Dei factum, Man made after the Image and Simi<g ref="char:EOLhyphen"/>litude of God,</hi> others, <hi>hominem lapsum, et mundanum, fall'n and worldly-minded-man,</hi> all which Translations con<g ref="char:EOLhyphen"/>tribute to extoll and magnifie the wonderful Love of God.</p>
+            <p>For, is it not worthy our admiration to see light and darkness enter a League? To see the torrid and frigid
+<pb n="42" facs="tcp:36814:23"/>
+               <hi>Zone</hi> unite and embrace each other? To see JEHOVAH and the Gods of <hi>EKRON,</hi> the Ark and <hi>Dagon</hi> reconci<g ref="char:EOLhyphen"/>led? to see the God <hi>Israel</hi> and <hi>Baal</hi> meet together, and the Prophets of the Lord, and Sons of <hi>Belial</hi> kiss each other.</p>
+            <p>Yet all these was fall'n man, compared to him who is nothing but purity it self; yet still, how does he court this depraved and sinful creature to a reconci<g ref="char:EOLhyphen"/>liation?</p>
+            <p>Shall we not envy his honour, and admire his love, who will lay down his life for the sake of a righteous man? shall we not then be rapt with wonder, when we consider the Immensity of the Divine Love to laps'd man, to see the eternal Son of the Most High God, descend into the lower parts of the earth, and in a man<g ref="char:EOLhyphen"/>ner, embrace a Dunghil, nay beyond that, to expose and submit himself to the cruel stroke of the most igno<g ref="char:EOLhyphen"/>minious death, that he might snatch sinful man from a lamentable downfal, and mount him from a misera<g ref="char:EOLhyphen"/>ble earth, to the Regions of Immortality and Bliss.</p>
+            <p>
+               <note place="margin">
+                  <hi>John</hi> 4.10.</note>Herein is love, not that we loved God, but that he loved us, and sent his Son to be a Propitiation for our sins.</p>
+            <p>O thou great and All-seeing eye of Heaven, what moved thee to glance so favourable a countenance on us miserable sinners! what moved thee to send so kind an Embassage of peace to us vile worms! to us who were unworthy thy compassion, though never so ear<g ref="char:EOLhyphen"/>nestly implor'd, to us, who had deserved thy wrath more than thy smiles, thy Thunder and Lightning, thy indignation and anger, but not the least drop of thy mercy! How comes it to pass, thou inexhaustible Fountain of Love, thou showr'st down thy goodness up<g ref="char:EOLhyphen"/>on us in so plentiful a measure? 'twas thy mercy O
+<pb n="43" facs="tcp:36814:23"/> God, Oh! praised be that mercy, which saved us from destruction! 'twas thy pity and compassion, not our tenderness to thy Laws, which sheltred us from thy fury! 'twas thy love and goodness alone, Oh! for e<g ref="char:EOLhyphen"/>ver magnified be that love, which induced thee to be so bountiful unto us! with all thankfulness and reve<g ref="char:EOLhyphen"/>rence, O God, we desire to join with those Sons of Glo<g ref="char:EOLhyphen"/>ry and bright Morning Stars in singing (according to our abilitie and power) <hi>Glory be to God on High, for his unspeakable love in giving his only begotten Son, that whosoever do believe on him, should not perish, but have e<g ref="char:EOLhyphen"/>ternal life,</hi> for thou sent not thy Son into the World to condemn the world, but that the world through him might be saved.</p>
+            <p>Oh that men would therefore praise the Lord for his goodness, and declare the Wonders which he doth for the Children of Men.</p>
+            <p>Which is no more then Justice, and our bounden du<g ref="char:EOLhyphen"/>ty to perform; for if we consult what we are by na<g ref="char:EOLhyphen"/>ture, what shall we conclude our selves, but Children of wrath, the sinful Ofspring of disobedient <hi>Adam,</hi> made obnoxious to the worst of deaths, before we were entituled to life, by sinning against God without whose Reconciliation we cannot but perish.</p>
+            <p>For though it is true, Man at his first creeping into the World, was placed in the Regions of felicity, and favoured as one of the Darlings of God, yet, was he not as quickly disobedient to the commands of his Cre<g ref="char:EOLhyphen"/>ator? how justly therefore was his Crown forfeited, and he deprived of all that happiness God had confer<g ref="char:EOLhyphen"/>red on him, when he was banished Paradise, <hi>and in the sw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at of his brows to earn his bread?</hi>
+            </p>
+            <p>And if he fell, so did we, by being in his Loyns, for since the advantages of that blessing God promised him,
+<pb n="44" facs="tcp:36814:24"/> if obedient, had respect to his Posterity, then certain<g ref="char:EOLhyphen"/>ly the curse, which was the consequence of his disobe<g ref="char:EOLhyphen"/>dience, did not relate to his particular interest alone, but was of universal influence, and he propagated infec<g ref="char:EOLhyphen"/>tion to the last, and utmost of his Posterity.</p>
+            <p>From our First Parents therefore we derive a curse, whose Legacy bequeathed us was sin and damnation, and all Man-kind were Joynt-heirs of the same Inhe<g ref="char:EOLhyphen"/>ritance, the wrath of an incensed God.</p>
+            <p>
+               <note place="margin">
+                  <hi>Ps.</hi> 51.5.</note>Thus holy <hi>David</hi> confesseth it, <hi>in sin did my Mother conceive me, and in iniquity she brought me forth.</hi> Now what had been the wages of this sin, but eternal death? what had been the fruit which they plucked from the Forbidden Tree, in the disguise of an Apple, but ever<g ref="char:EOLhyphen"/>lasting ruine? had not the wonderful mercy of God found out an expedient to salve his Justice and save us?</p>
+            <p>For had he not dealt thus graciously with his Crea<g ref="char:EOLhyphen"/>tures, what could we have in reason expected, but to have been swept away in the Deluge of Divine indig<g ref="char:EOLhyphen"/>nation? that he should have dipt his Arrow in the Poyson of that Serpent which gull'd and mocked us, and exhaust (were it possible) his whole Magazine of Thunderbolts; that he should have girded his Sword upon his Thigh, and take Vengeance upon us, making us to suck the Lees and dreggs of that intollerable potion reserved for the Sons of Perdition.</p>
+            <p>This was the fruit flourishing on the Tree of Know<g ref="char:EOLhyphen"/>ledge; this was that miserable plight, and woful con<g ref="char:EOLhyphen"/>dition into which we had brought our selves; we had deserved the worst of Gods fury, by breaking our bands and Covenant with him,</p>
+            <p>Stand still therefore all ye that forget God, and ad<g ref="char:EOLhyphen"/>mire his goodness and tell me, <hi>if there be any God like
+<pb n="45" facs="tcp:36814:24"/> unto our God,</hi> or any Father like unto our heavenly Father, who forbore to enter into the Armory of his wrath, or to affright us with the furrows of a contract<g ref="char:EOLhyphen"/>ed brow; for notwithstanding we were born Heirs Apparent to calamity without end, yet loe he sent his only begotten Son to cut off the entail.</p>
+            <p>We have sinned O Lord, and dealt wickedly, but this Lamb of thine, what hath he done? that he should be thus battered and bruised, wounded and bloudy, to save us from the Stripes we had justly deserved? how great was thy love to us to send him, who was in Heaven with thee, to us on earth in the likeness of sinful flesh.</p>
+            <p>Oh! what charming love was this! how preti<g ref="char:EOLhyphen"/>ous are the thoughts of it to us, Grant then O Mer<g ref="char:EOLhyphen"/>ciful Father that the perfect Image of this thy Son may be so formed in our hearts, that we may live the life of Christ, serving him in righteousness, and ho<g ref="char:EOLhyphen"/>liness all the days of our Pilgrimage here. that we may not defeat the ends of his death, but strive to compleat the joy of our Lord.</p>
+            <p>To which end we see God spared not his Son, but a Manger is his Cradle, behold the Bread of life ap<g ref="char:EOLhyphen"/>pointed for the Provision and nourishment of our s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uls, he came to fetch home the lost Sheep, and to cure and heal the infirm and weak.</p>
+            <p>
+               <hi>He came not to call the Righteous, but Sinners to Repent<g ref="char:EOLhyphen"/>ance.</hi> And what shall we rob our selves of our share in this so glorious an enterprise? shall we ruinate the purposes of Christ in delivering us out of that misery, wherein we were so unhappily plunged.</p>
+            <p>For had not the Father sent him on that errand, how had we been broken in peices, like a Potters Vessel; Whips, Scourges and Scorpions, had been our portion,
+<pb n="46" facs="tcp:36814:25"/> had not a Rod sprung from the Root of <hi>Jesse,</hi> to save Sinners from the lash.</p>
+            <p>Let us then return our thanks to this Redeemer of <hi>Israel</hi> and say, O blessed Jesu! who about this time was born of a pure Virgin, we return thee our praises and thanksgivings, for that thou would be pleased to subject thy self to the miseries of flesh, that flesh might be capacitated for the joy of eternal bliss; It was our gluttony O Bread of Life, which caused thee to hunger; our intemperance O fountain of living water, which caused thee to cry out, <hi>I am athirst;</hi> thou wert made as we are, that we might be made as thou art, with all the powers and faculties of our souls and bodies we return thee all honour and praise, singing with the heavenly quire, <hi>All glory, power and dominion be ascribed to the Lamb and him that sitteth on the Throne for ever and ever</hi> Amen.</p>
+            <p>And so I descend in the Second place to consider their quantity whom God so loved, that he gave his only begotten Son for them, <hi>God so loved the World.</hi>
+            </p>
+            <p>He did not give his Son for some choice and select persons only, the glorious Son of Righteousness, did not dart his radiant beams on the Land of <hi>Goshen</hi> only, but he arose with healing in his wings over the su<g ref="char:EOLhyphen"/>perficies of the whole earth, that all mankind might re<g ref="char:EOLhyphen"/>ceive benefit by his influence.</p>
+            <p>For by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the text is meant all the world both Jew and Gentile, and so St. <hi>Paul</hi> useth it saying, <hi>that God was in Christ reconciling the World unto himself;</hi>
+               <note place="margin">2 <hi>Cor.</hi> 5.18.</note> now what is signified by reconciling the Word, is in<g ref="char:EOLhyphen"/>terpreted by St.<note place="margin">
+                  <hi>Rom.</hi> 8.</note>
+               <hi>Paul,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the whole Creation,</hi> or all the Gentile World, in opposition to the <hi>Jewish</hi> Enclosure, not all the creatures absolutely, but all
+<pb n="47" facs="tcp:36814:25"/> men of all sorts, particularly, those Gentile Idolators mentioned by the same Apostle, whom he stiles, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>you who were alienated and strangers to God, hath he reconciled to himself,</hi>
+               <note place="margin">
+                  <hi>Colos.</hi> 1.21.</note>
+               <hi>for he sent him into the world</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>to save all men that were lost,</hi> to ave all men that were lost, to heal the smarting sores, not of some few polluted souls only, but of all descend<g ref="char:EOLhyphen"/>ed from the loyns of <hi>Adam.</hi>
+            </p>
+            <p>For by <hi>Adams</hi> offence God had concluded <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>all things, all his posterity under the guilt of sin;</hi>
+               <note place="margin">
+                  <hi>Ephes.</hi> 1.10.</note> and therefore to satisfie his Justice, and to manifest his Mercy, he hath given us his Son, that in the dispensa<g ref="char:EOLhyphen"/>tion of the fulness of time he might gather into one all things both which are in Heaven and Earth, where is intimated no more then the people who dwell under the Canopy of Heaven.</p>
+            <p>For though the mercy of God and the Merits of our Saviour hath so confirmed and established the Angels in their Stations of glory, that it is impossible for them to fall and slide away, yet this cannot be said to be by Redemption, but by Christs gratious uniting them to God, so that I conceive the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> can<g ref="char:EOLhyphen"/>not refer to them, but only to men, because Christ <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> did not come to take hold of, reduce or reconcile the Angels, but only mankind, for the An<g ref="char:EOLhyphen"/>gels in Heaven never fell, and therefore what need had they of a Reconciliation? so that the Apostle only en<g ref="char:EOLhyphen"/>deavours to explain to us, that Christ is the univer<g ref="char:EOLhyphen"/>sal Redeemer of Man-kind, of the Gentiles as well as of the Jews, which is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> an act of free undeserved mercy, im<g ref="char:EOLhyphen"/>putable to nothing but Gods meer grace.</p>
+            <p>For by our Original depravation we became prone to do evil, and are not able to think a good thought,
+<pb n="48" facs="tcp:36814:26"/> insomuch the most righteous of the Sons of men had need of a Saviour, to make an Attonement and Ex<g ref="char:EOLhyphen"/>piation for them.</p>
+            <p>For the Royal Prophet informs us, <hi>God looked down from Heaven,</hi>
+               <note place="margin">
+                  <hi>Ps.</hi> 14.</note>
+               <hi>and none did good, no not one.</hi>
+            </p>
+            <p>Shall the disease then he epidemical, and common to all, and shall not the cure be the same? shall <hi>Eves</hi> transgression be capable of ruining and destroy<g ref="char:EOLhyphen"/>ing all? and what hath not Christs all-healing bloud virtue enough to save all? Is God a respecter of per<g ref="char:EOLhyphen"/>sons, or if we do well shall we not be accepted? is not he willing that all should come to salvation? why do the Church stile <hi>Adams</hi> sin an happy sin, if our Re<g ref="char:EOLhyphen"/>demption and the Merits of Christs Sacred Passion was not extended to all, even the greatest criminal and high<g ref="char:EOLhyphen"/>est offendor, <hi>if he seek the Lord while he may be found, and call upon him whilst he is near?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Rom.</hi> 5.18.</note>
+               <hi>For as by the offence of one, death came upon all men unto condemnation, even so by the righteousness of one the free gift came upon all men unto justification of life,</hi> whence it is clear the remedy brought to us by Christ, reached as far as the disease.</p>
+            <p>
+               <note place="margin">
+                  <hi>John</hi> 1.9.</note>How doth St. <hi>John</hi> entitle him a Sun which giveth light to every one that cometh into the World.</p>
+            <p>There is none overshadowed with so dismal a Cloud of sins, who may not (if they will) take in the rays of his mercy; the blackest soul may find the bloud of Christ ready to cleanse her stains and exchange them for a pure die of innocencie, if she can with a sincere heart and tongue cry out, <hi>Have Mercy upon me O God.</hi>
+            </p>
+            <p>For by the bloud of Christ is conveyed to all men a capacity of Salvation; but if they neglect so great Salvation, and afterwards come to perish, it is through
+<pb n="49" facs="tcp:36814:26"/> their own default in misusing his gracious endear<g ref="char:EOLhyphen"/>ments, and proving refractory to his commands.</p>
+            <p>For this is a faithful saying,<note place="margin">1 <hi>Tim.</hi> 1.1.</note>
+               <hi>and worthy of all accepta<g ref="char:EOLhyphen"/>tion, that Christ Jesus came into the World to save sinners,</hi> Sinners indefinitely, without the exclusion of any.</p>
+            <p>And so again, <hi>He tasted death for every man,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 1.9.</note>
+               <hi>and is risen again for their Justification,</hi> that is, as verily as all men have sinned by contraction of the guilt of the first man, so by the merits of the Man Christ Je<g ref="char:EOLhyphen"/>sus, they are justified freely by Gods grace, if they do not fall off from the mercy of the Covenant, by prevaricating the conditions of it.</p>
+            <p>For through his bloud he hath conveyed notice to all men, that they are the Sons of God, that they are the Heirs of eternity, Coheirs with Christ, and partakers of the Divine Nature, meaning, that they are so by the design of God, and the purpose of the manifestation of his Son, he being unwilling any should perish, but that all should be saved.</p>
+            <p>Such was the unmeasurable love of Christ that he would have all men to be saved, without exception of City or Country, Nation or Language, without excep<g ref="char:EOLhyphen"/>tion of the ungodly, enemies, nay, without exception of them that perish, for it is to give them a space to re<g ref="char:EOLhyphen"/>pent in,<note place="margin">2 <hi>Pet.</hi> 3.9.</note>
+               <hi>that he is stack (as some men count slackness) con<g ref="char:EOLhyphen"/>cerning his promise.</hi>
+            </p>
+            <p>But alas! in our late years of Rebellion when men pretending to fight the Battels of the Lord, took up the Weapons of the Divel, and under a pretext of the Lords cause entered a solemn league and covenant and swore Allegiance to the Prince of Darkness, then also began to flourish their doctrine who say, that God designed many Souls to Hell before they had a Being and Ex<g ref="char:EOLhyphen"/>istence upon earth, insomuch they were incapacitated
+<pb n="50" facs="tcp:36814:27"/> to work out their salvation, their sentence of condem<g ref="char:EOLhyphen"/>nation being already past in the predeterminate coun<g ref="char:EOLhyphen"/>el of God, then began men to flatter themselves that they were the only Children of God, the Saints that should inherit the earth; and none but they the true people of <hi>Sion,</hi> who were the espousers of their fan<g ref="char:EOLhyphen"/>tastical opinion and perswasion, judging all others to be held as Reprobates in the eyes of God because they were so in theirs.</p>
+            <p>Then was broached that opinion of a converting grace and irresistable power, as if God would urge men to salvation, and make them happy without any endeavours of their own, if they did but rely on Christ and his Merits for the payment and satisfacti<g ref="char:EOLhyphen"/>on.</p>
+            <p>Which Doctrines are of so pernicious consequence, that, First it renders the Cross of Christ foolish<g ref="char:EOLhyphen"/>ness.</p>
+            <p>For wherefore did God give us his Son? wherefore did he die, rise again, and ascend to his Father? to what purpose was all that wast of bloud which he shed in our behalf? if men were absolutely decreed to salvation or reprobation from all eternity? to what end did Christ come into the world, when as with<g ref="char:EOLhyphen"/>out consideration to his sufferings or the merits of his death and passion his Father had predetermined from eternity such a number for the pleasures of Heaven, and so many for torment without end?</p>
+            <p>If it be thus, then is Christ dead in vain, because the Father might have effected this without putting his Son to the expences of his bloud to redeem us. If it be thus the Father had no great love for his Son, to put him to such cruelties and hardships, not having any cogent or absolute necessity. Nay, if this doct<g ref="char:EOLhyphen"/>rine
+<pb n="51" facs="tcp:36814:27"/> was true, it would blemish the wisdom of Hea<g ref="char:EOLhyphen"/>ven, for if he had resolved to save some and damn o<g ref="char:EOLhyphen"/>thers from eternity, he might have done it without the contrivance of that device of reconciling us to himself by the death of his Son, because that was in<g ref="char:EOLhyphen"/>tended only to satisfie his Justice and manifest his mer<g ref="char:EOLhyphen"/>cy, and what need of that if we consent to a predetermi<g ref="char:EOLhyphen"/>nation?</p>
+            <p>But then Secondly, As it renders the death of Christ insignificant, unnecessary, so if this be true, then is our preaching vain.</p>
+            <p>For to what end serve all the commands, instructi<g ref="char:EOLhyphen"/>ons, calls, counsels, admonitions and reproofs of the Gospel? for first, they are unnecessary to those who are elected, since if they be fully perswaded that they are decreed to salvation from eternity, what need they trouble themselves about it, when they know they shall be brought in (in Gods due time and plea<g ref="char:EOLhyphen"/>sure) by such a converting grace and power as cannot be resisted by them.</p>
+            <p>And as the Gospel is useless to these, so in the Se<g ref="char:EOLhyphen"/>cond place to those who are reprobate, for if they be fully perswaded thereof, to wit, that they must inevi<g ref="char:EOLhyphen"/>tably perish, do they what is possible to prevent and a<g ref="char:EOLhyphen"/>void it, why should men beat the air, in labouring to perswade them to that which both the persons to be taught, and the persons teaching, are fully persuaded can never be effected by them.</p>
+            <p>Nay further, let us suppose a man doubtful of his state, yet if he consent to this doctrine, is not the con<g ref="char:EOLhyphen"/>clusion as if he should say, if I be of that number God hath determined from eternity to save, I shall be saved, though I do what seemeth good in my own eyes, for at some time or other, which I am as yet ig<g ref="char:EOLhyphen"/>norant
+<pb n="52" facs="tcp:36814:28"/> off, he will force me from my sins, and compel me to obedience by such a power as cannot be resist<g ref="char:EOLhyphen"/>ed by me; but if it be my hard lot to be put in the Catalogue of reprobates, let me be never so industri<g ref="char:EOLhyphen"/>ous to work out my salvation, let me wear the ground with my religious knees by my constancy in praying; let me pine my body to a Skelleton by the austerities of fasting and humbling my self before God; let me be never so religious never so devout, yet still I must be fuel for that fire prepar'd for the Devil and his An<g ref="char:EOLhyphen"/>gels, because it was decreed so from eternity, and is more unalterable than the Laws of the <hi>Medes</hi> and <hi>Persians.</hi>
+            </p>
+            <p>This is the fruit which springs from so corrupt a root, and the very case of <hi>Ludovicus,</hi> that learned <hi>Itali<g ref="char:EOLhyphen"/>an,</hi> for he was so miserably infected with this princi<g ref="char:EOLhyphen"/>ple that no arguments and reasonings could convince him of its error, till perceiving himself indisposed, and already fallen into the Neighborhoods of sickness he sends for the Physician, who (made acquainted with his opinion) answered him in his own stile, <hi>if he should live, he should live, without trying the experiments of his art and skill,</hi> the Patient ruminating on his words at last was convinced in his Conscience, that as means were to be applied for the restauration of health, so likewise for the salvation of the soul.</p>
+            <p>Away then with this deluding phantasie, which is the parent of nothing but those Twin-Sisters of dark<g ref="char:EOLhyphen"/>ness, presumption and despair; and let us endeavour to justifie God in his saying that his will is, that all should be saved;<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Tim.</hi> 2.4.</note> to which end he hath proportioned sufficient means to all, so that none can perish but through their own impenitency and perseverance in sin.</p>
+            <pb n="53" facs="tcp:36814:28"/>
+            <p>But alas! how hath the luxuriant fancies of <hi>Gene<g ref="char:EOLhyphen"/>va,</hi> endeavoured to poyson this sweet truth by saying, that is not meant, that God would have every soul to be saved, but two or three, more or less out of every order and occupation.</p>
+            <p>But St.<note place="margin">2 <hi>Pet.</hi> 3.9.</note>
+               <hi>Peter</hi> (better illuminated than those preten<g ref="char:EOLhyphen"/>ders to the Spirit) hath fully answered their cavil, by saying that God <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>he is un<g ref="char:EOLhyphen"/>willing that any one should perish,</hi> and so again God him<g ref="char:EOLhyphen"/>self hath sworn, <hi>that he delighteth not in the death of a sinner.</hi>
+            </p>
+            <p>But perhaps some may contest that if it be the inten<g ref="char:EOLhyphen"/>tion and will of God, that all should be saved, how comes it to pass so many fall short and miss of the re<g ref="char:EOLhyphen"/>ward (designed by God) glory everlasting?</p>
+            <p>I answer,</p>
+            <p>The Holy Scriptures have recorded Gods will to be two-fold, his Absolute, and his Conditional Will.</p>
+            <p>The former God used when he framed the good<g ref="char:EOLhyphen"/>ly Structure of the World, and said, <hi>let there be light, and there was light; let there be a Firmament and there was a Firmament?</hi> So likewise, when he created those in<g ref="char:EOLhyphen"/>corporeal intelligencers, the Angels, he spake the Word and they were made; he commanded and they were created. This is the absolute and only irresistable Will of God.</p>
+            <p>But in matters relating to the Salvation of Men, he made use of the Second, his Conditional Will.</p>
+            <p>And those Conditions were three.</p>
+            <p>The First was in Paradise, <hi>eat not, and thou shalt live;</hi> but how soon did we forfeit this Covenant by an han<g ref="char:EOLhyphen"/>kering and prurient desire after the Tree of Know<g ref="char:EOLhyphen"/>ledge?</p>
+            <pb n="54" facs="tcp:36814:29"/>
+            <p>The Second was under the Law, <hi>do this and thou shalt live.</hi> And here though the spirit was never so willing, yet so many were the weaknesses and infir<g ref="char:EOLhyphen"/>mities of the flesh, that we groaned under its weight and were not able to perform it, until Christ the ful<g ref="char:EOLhyphen"/>filler of the Law came to ease us of its burthen; and then he made a third and new agreement with us un<g ref="char:EOLhyphen"/>der the Gospel, and that is, <hi>believe on the Son of God, and thou shalt be saved.</hi> To the performance of which he hath afforded such powerful aids, and encourage<g ref="char:EOLhyphen"/>ments, that we may observe the tenour of his Laws, and live for ever.</p>
+            <p>
+               <hi>For the ways are ways of pleasantness, and all its paths are peace.</hi>
+            </p>
+            <p>But if we will not observe his Laws, but break our bonds asunder, we justly forfeit our right in Christ, and may charge God foolishly, but thank our selves for damnation.</p>
+            <p>For though our Creation was the work of Omni<g ref="char:EOLhyphen"/>potency alone, yet the salvation of our souls can ne<g ref="char:EOLhyphen"/>ver be effected without our endeavours.</p>
+            <p>He hath opened a fountain for us to bath in, but if we refuse to wash and be clean, who is to blame for the continuance of our Leprosie?</p>
+            <p>Nay further, he doth not only to our Justification add the invitations of his grace and holy Spirit to dispose our selves for it, promising to ease and refresh such as are <hi>weary and heavy laden with the burthen of their sins,</hi> but positively declares he stands at the door of our hearts, knocks and solicites to enter, but if we will not suffer the King of glory to come in, may not he justly defie the World to object the least fault and blame on his side, since he hath done to his Vine<g ref="char:EOLhyphen"/>yard whatever could be thought requisite to make it
+<pb n="55" facs="tcp:36814:29"/> thrive and prosper? and if they finally perish, (as I shall shew more at large by and by) are they not the authors of their own perdition by their rejecting those abundantly sufficient graces he hath offered them to accept? So that in the extremity of their misery they will be forced to confess, <hi>thou art Righteous O Lord, and thy judgments are just.</hi>
+            </p>
+            <p>But some further object, that though the satisfaction Christ made was sufficient for the whole World, yet (say they) it was not effectual, that is, (I conceive) he did not intend all should participate of the benefit thereof.</p>
+            <p>And what is this, but (by the worst kind of enclo<g ref="char:EOLhyphen"/>sure) to circumscribe his All-sufficient goodness? to set banks and shores to that unlimited Ocean of mer<g ref="char:EOLhyphen"/>cy which cannot consist with the wisdom and good<g ref="char:EOLhyphen"/>ness of Christ; for if he paid a full and plenary satis<g ref="char:EOLhyphen"/>faction for the offences of all men, was it not as easie and more agreeable to his mercy to communicate the benefits to all, than to appropriate them only to a few and little parcel of men?</p>
+            <p>Any in the shape of a man would censure it a meer delusion, for the King of Great <hi>Britain</hi> to proclaim himself Redeemer of all the captivated Christians un<g ref="char:EOLhyphen"/>der the Tyrany of <hi>Ziim</hi> and <hi>Ochim, Turks</hi> and <hi>Infidels,</hi> if he should send over Ransom large enough for all, yet afterwards cashiere the poor Captives hopes of li<g ref="char:EOLhyphen"/>berty, by interpreting himself, though I proclaimed and sent sufficiently for all, yet I meant Redemption only to a few.</p>
+            <p>Would not this renew our griefs and augment our sorrows? and if it was so with God, what anxieties and fears, what troubles and scruples would it move in our minds, whether we were the persons whom
+<pb n="56" facs="tcp:36814:30"/> the King delighted to honour? for if we conceited we were the Children elected by God,, and God had re<g ref="char:EOLhyphen"/>solved from eternity to save us, what licence would it give to our unbridled desires by presuming too much on the Patience and long-suffering of God, when we believe we cannot be dis-inherited from being Co<g ref="char:EOLhyphen"/>heirs with the Son of God, and so make us neglect the working out our salvation, knowing that our la<g ref="char:EOLhyphen"/>bour is in vain, because before we were, God had determined we should not miss of our Diadem of glo<g ref="char:EOLhyphen"/>ry.</p>
+            <p>But blessed be God, no mans state is fixed, or un<g ref="char:EOLhyphen"/>alterable, before he hath a Being, much less from eter<g ref="char:EOLhyphen"/>nity or before the foundations of the earth were laid, nay, now we have a being, it is possible to pass from the state of death to the life of grace</p>
+            <p>'Tis true when we are cut off from the Land of the living, and are arrived at our long home, then our con<g ref="char:EOLhyphen"/>dition and the decree of God is unchangeable, for <hi>where the Tree falleth there it lyeth.</hi>
+               <note place="margin">
+                  <hi>Eccles.</hi> 11.3.</note>
+            </p>
+            <p>They that die in peace shall arise in glory with the King of Peace; and they who die in their sins shall be raised, 'tis true, but receive small comfort from the Sun of glory, for they shall be banished from his pre<g ref="char:EOLhyphen"/>sence.</p>
+            <p>Let this consideration rouze us from the Lethargy of sin, that we may work whilst the day of salvation lasteth, before <hi>the night cometh, when no man can work.</hi>
+            </p>
+            <p>What we do, let us do quickly, for though the mar<g ref="char:EOLhyphen"/>row may seem to swell in our bones, our bloud hot and boyl in our veins, though we pride our selves in the strength and flower of nature, yet still, is not our time in the hand of God? <hi>who can tell what a day may bring forth?</hi>
+            </p>
+            <pb n="57" facs="tcp:36814:30"/>
+            <p>Seeing then God hath expressed so high a Love to us, let us not turn his grace into wantonness, for he that believeth on him that sent me, saith Christ, hath ever<g ref="char:EOLhyphen"/>lasting life. And St. <hi>John</hi> tells us, <hi>He is the Propitiation for our sins, and not for ours only, but also for the sins of the whole world.</hi>
+            </p>
+            <p>This was an Act of Oblivion, out of which none was excepted; He came to revoke the general Sentence, the Decree gone out against all men, <hi>For as I live, saith the Lord, I have no pleasure in the Death of the wicked, but that he turn and live.</hi> He hath set before us life and death, Oh! let us choose life, that we may live for ever, and let us put up our Prayers and say:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <p>O Almighty and most Merciful Father, we adore thy Mercies and admire thy Love to the Word in the Gift of thy Son. O blessed Jesu! how worthy is thy Love to be had in reverence over all the World! for thy voluntary suscep<g ref="char:EOLhyphen"/>tion and affectionate suffering such horrid and cruel Tor<g ref="char:EOLhyphen"/>tures: the Waters of bitterness entred into thy soul, and the Storms of Death, and thy Fathers Anger broke thee in pieces: What shall we do, who by our sins have tormented our dearest Lord? What contrition and tears can sufficient<g ref="char:EOLhyphen"/>ly express those sad accidents which they have produced? Lord have Mercy upon us, Christ have Mercy upon us, and pity our distress: And seeing thou hast done so much for our Souls, only sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ak the word, and thy Servant shall be whole. Suffer us not to neglect that great Salvation which thou hast purchased for us: Dispose us by Love, Thankfulness, Hu<g ref="char:EOLhyphen"/>mility, and Obedience to receive the benefits of thy Incarna<g ref="char:EOLhyphen"/>tion and Passion. Enflame our Affections more and more towards thee and God the Father, whose goodness was not contented in barely loving us, but to love us so, as to give us thee the only begotten Son of God.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="58" facs="tcp:36814:31"/>
+            <p>And so I come to the Organ and Means by which our Redemption was effected, the gift of his only begotten Son: Wherein we consider both the Action he gave, and the Gift it self, <hi>His only,</hi> &amp;c.</p>
+            <p>We begin with the Action.</p>
+            <p>And first, He gave it <hi>gratis,</hi> freely, and of his own accord; for he was omnipotent and could not be con<g ref="char:EOLhyphen"/>strained by any force, all Creatures depending on him alone,<note place="margin">
+                  <hi>Acts</hi> 17.28.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: In him we live, move, and have our Being.</p>
+            <p>It was not therefore any compulsion, but love only, which was so generous as to transport it self up to Hea<g ref="char:EOLhyphen"/>ven, and assault the Divinity in its Throne, drawing from thence the Eternal Son of God.</p>
+            <p n="2">2dly. God so loved the World, that not only <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he delivered him; and so St. <hi>Paul</hi> useth it, <hi>He spared not his own Son, but delivered him up for us all.</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 8.3.</note>
+            </p>
+            <p>He was delivered up to the malice and fury of evil men, and thence delivered up to the ignominious death of the Cross.</p>
+            <p n="3">3dly. Nay God did not only deliver him up, but al<g ref="char:EOLhyphen"/>so sent him, <hi>For,</hi> saith the Apostle, <hi>in this was manifest<g ref="char:EOLhyphen"/>ed the Love of God, because he sent his only begotten Son into the World.</hi>
+            </p>
+            <p n="4">4thly. And to augment his Love (if perfection will admit of addition) This Mission is the more to be accep<g ref="char:EOLhyphen"/>ted by us, because it was by way of commutation and exchange for us; <hi>Commutavit filium suum unicum,</hi> He exchanged his only begotten Son.</p>
+            <p>It was the Worlds Price was set to sale, and how dearly did he purchase it? What reason then have we to spend every moment of our Life in loving, praising, and glorifying him? And when we contemplate these
+<pb n="59" facs="tcp:36814:31"/> admirable contrivances of his Wisdom and Mercy, can we do less than say;</p>
+            <p>O God what shall we return thee in requital, or wherewith shall we appear before thee? When we would praise thee, an Abysse of Majesty exhausts in a moment all Encomiums, and our adorations what are they before thy Divine Essence? Could we render our selves uncreated in deference to thee the Fountain of all Beings, it were a poor Homage to thy ineffable Greatness: Nay could we annihilate the World, and bring all Creatures into their old postures of nothing for thy Glory, yet what is this compar'd with what thy immensity might justly expect? But while we labour with our Poverty, finding nothing created worthy thy acceptance (Oh astonishing Mercy!) behold the per<g ref="char:EOLhyphen"/>fect oblation of thy Son, which thou hast given us, the prodigious Effect of thy <hi>Love.</hi> Him we offer unto thee, and through him we hope to be accepted: None can speak our Gratitude, but that word, who can only sa<g ref="char:EOLhyphen"/>tisfie thy Justice: Since by this Gift the very Treasury of Heaven was emptied for a time, and the Earth en<g ref="char:EOLhyphen"/>riched with that pure Sacrifice wherewith thou wert well pleased; and the Odour thereof draws upon man<g ref="char:EOLhyphen"/>kind a continual Floud of Mercies. This is a Sacrifice O God, thou wilt not despise; him we offer unto thee, and with him our selves and all that we have, beseech<g ref="char:EOLhyphen"/>ing thee to accept of us for the sake of thy Son, who was offered up for us all.</p>
+            <p>And so I come to consider the Gift it self, <hi>His only be<g ref="char:EOLhyphen"/>gotten Son.</hi>
+            </p>
+            <p>Son, is a Name by which men oft endeavour to ex<g ref="char:EOLhyphen"/>press their endearments and affection to us: Thus when <hi>Cushi</hi> told <hi>David</hi> of his Sons unfortunate, though just,<note place="margin">2 <hi>Sam.</hi> 18.33.</note> death, the Text tells us <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and the La<g ref="char:EOLhyphen"/>tine
+<pb n="60" facs="tcp:36814:32"/>
+               <hi>Commotus:</hi> The King was troubled and much mo<g ref="char:EOLhyphen"/>ved, and went up to the Chamber over the Gate, where Judgment was administred, and wept, and said, <hi>O my Son</hi> Absalom, <hi>my Son, my Son;</hi> and refused to be com<g ref="char:EOLhyphen"/>forted for his death; nay he wished death had been subject to a mistake, and took him instead of this re<g ref="char:EOLhyphen"/>bellious Viper, who sought the usurpation of the King<g ref="char:EOLhyphen"/>dom and Death of his Parent. And if a Son was so dear to <hi>David,</hi> how dear must he be unto God: And consequently, what a Noble and Royal Gift must this be of our Heavenly Father?</p>
+            <p>It had been too great an Honour to have dispatched unto us the meanest Servant in his Heavenly Court to visit us; or if he had deputed an Illustrious Seraphim to proclaim to the World, That <hi>He, who is King of Kings, the Great God of Heaven and Earth, would be re<g ref="char:EOLhyphen"/>conciled to his Rebellious Subjects:</hi> Should we not have been startled at the news of such a Message? How much more then, when he sends his Son, the Prince and So<g ref="char:EOLhyphen"/>veraign of the Heavenly Host to be had in no reputati<g ref="char:EOLhyphen"/>on, and take upon him the form of a Servant.</p>
+            <p>But then 2dly. It was his own Son, and not anothers; He was not an Adopted Son, who raised himself by his merits to the Title of the Son of God, as <hi>Photinus</hi> and his Followers would have perswaded the World; but he was God of very God, and Light of very Light: Or was it his Son by Nuncupation and name only, as o<g ref="char:EOLhyphen"/>thers did imagine, but his own Son, for otherwise we de<g ref="char:EOLhyphen"/>stroy our belief of the Trinity, and conclude the Father, Son, and Holy Ghost, not three Distinct Persons but Names.</p>
+            <p>
+               <note place="margin">
+                  <hi>Mat.</hi> 12.18.</note>Therefore 3dly. It was the only begotten Son of God, conceived in the Womb of the Virgin <hi>Mary,</hi> by the powerful overshadowing of the Holy Ghost.</p>
+            <pb n="61" facs="tcp:36814:32"/>
+            <p>Here is Love in its Zenith, the Son in whom his soul was well-pleased; Nay, his only begotten Son.</p>
+            <p>This is that great Mistery the Apostle speaks of, God manifested in the Flesh;<note place="margin">1 <hi>Tim.</hi> 3.16.</note> where we may behold the E<g ref="char:EOLhyphen"/>ternal Father giving up his only Son in behalf of Man<g ref="char:EOLhyphen"/>kind polluted and depraved by corruption, vitiated by sin, disobedient to his Lord, and insolent to his King; a Worm, and no Man, a poor scantling of putrifaction, and a prey for the never-dying Worm to feed upon. How well therefore is it stiled a Mistery, that a God most perfect in himself, who stood in no need or want, should love so forlorn a Creature (by reason of his sin) at such vast and great distances from him, who could do him small service and stand him in little stead.</p>
+            <p>Yet still this immense Being, hath, out of his Infi<g ref="char:EOLhyphen"/>nite Bounty, given us the dear production of himself, coeternal, consubstantial, and equal, to the Father in respect of his God-head, though inferiour to the Father as touching his Man-hood; God and Man, a Problem, whose solution puzzleth all the Reason humanity pos<g ref="char:EOLhyphen"/>sesseth a Riddle which cannot be unfolded but by Faith.</p>
+            <p>Did we not behold it through that Perspective, but employ our reason to consider it, we should as soon conclude to the Suns Union with a Clod, or a Thoughts Corporeity, as to believe immortality incarnate, spiri<g ref="char:EOLhyphen"/>tuality turn'd body, and the infinite Ocean of goodness in so small a Vessel.</p>
+            <p>The composure of the World, and the variety of Creatures, was the effect of an Almighty Power, that Man should be made after the Image of God; wonder<g ref="char:EOLhyphen"/>ful enough, but that God should be made like Man, is much more admirable.</p>
+            <p>'Twas a greater demonstration of his Omnipotency, that God should be made a like Creature, than his for<g ref="char:EOLhyphen"/>mation
+<pb n="62" facs="tcp:36814:33"/> of all Creatures. Immortality put on Morta<g ref="char:EOLhyphen"/>lity, and Incorruption dressed in the garments of Cor<g ref="char:EOLhyphen"/>ruption.</p>
+            <p>We read that the Ark of the Covenant was overlaid with Gold, whilst Shittim wood was in the midst, which was to Typifie Christs Humanity decked and adorned with his God-head.</p>
+            <p>A Mystery so fruitful in Miracles, that natural Rea<g ref="char:EOLhyphen"/>son cannot comprehend them. Nature was stopt as to the result of an humane subsistence, in whose place was intimately applyed the Personality of the Divine Word, and this infinite subsistence was adorned with graces, virtues, and privileges superiment.</p>
+            <p>Dost thou wonder to see the Sea divided and stand upon an heap; come here then and admire this bound<g ref="char:EOLhyphen"/>less Ocean contained in the narrow Vessel of a Virgins Body? Dost thou wonder to see the Bush in the midst of hungry Fire and not consumed, behold a Virgin, the Mother of a Son, and yet her Virginity spotless and un<g ref="char:EOLhyphen"/>defiled? Dost thou wonder to see a <hi>Moses</hi> preserved in a Cradle of Bull-rushes, behold the King of Heaven in a Manger? Was it strange to see the Sun go back on the Dial of <hi>Ahaz,</hi> how marvellous then is it, to fee the true Sun, Light of very Light, under a small cloud, and the most glorious Candle of Heaven put under a Bushel? Dost thou wonder the Bread of Life became Flesh, look into the Sacrament of his Supper, and see how he can turn his Body and Bloud into Bread and Wine to nourish the Souls of Men? Dost thou wonder at the Wisdom of <hi>Solomon,</hi> lo a greater than <hi>Solomon</hi> is here. How did the Wisdom of God become foolish<g ref="char:EOLhyphen"/>ness for us, and the Word it self speechless? <hi>And He who is our God, is He not also our Brother?</hi> Rouze up thy self then, O my dull and sordid soul, mount up thy self
+<pb n="63" facs="tcp:36814:33"/> even to the Heavens above, slighting the things of the World, as dross and dung, if compar'd with the honour<g ref="char:EOLhyphen"/>able Title of being the Son of God.</p>
+            <p>Many an express had been sent unto us from the Court of Heaven by those winged Embassadours, the Angels, But, Oh infinite mercy! He now sends his <hi>Le<g ref="char:EOLhyphen"/>gat à latere,</hi> his Son from his bosom, expecting he would be more honourably treated by us: But alas! how did we entertain him? 'Tis true he had his brows encircled with a Crown, but it was of Thorns.</p>
+            <p>'Tis true, he was a King, but annointed with his own bloud; or as the Evangelical Prophet stiles him, <hi>a King of sorrows:</hi> 'Tis true, he had a Purple Robe, but it was of derision.</p>
+            <p>'Tis true, he had a Bed-chamber, but it was a Stable; 'tis true, he had a Cradle, but it was a Manger to com<g ref="char:EOLhyphen"/>pleat the saying which was written, <hi>The Oxe lodged with his own<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, and the Ass and the Master were content with the same Crib.</hi>
+            </p>
+            <p>Was he an <hi>Isaac,</hi> a Son of Laughter, or rather, <hi>vir dolorum,</hi> a man of griefs? Was he clothed in his dress of Majesty? or did he disguise himself in Purples and Furrs, that he might enjoy ease and govern all the Na<g ref="char:EOLhyphen"/>tions of the Earth? or rather, was he not clothed with shame and dishonour? Did not Heav'n, nay the God of Heav'n descend to Earth, that Earth might ascend to Heaven.</p>
+            <p>Thy Fore-head was furrowed with Thorns, O blessed Jesu, yet thou wouldst not frown: We did chain those Arms, which thou didst stretch forth to embrace thy Enemies, and those who continually provoke thee to wrath; thy Bowels of tender compassion yearned to<g ref="char:EOLhyphen"/>wards them, who were ready to rake into thine with
+<pb n="64" facs="tcp:36814:34"/> their bloudy hands; Oh! most compassionate Son of the most merciful Father!</p>
+            <p>What shall we render unto thee for all thy mercies? How shall we pay our acknowledgements? whom shall we love? to whom shall we resign our Wills and ways, but unto thee, and the Father of mercies who hath not thought the gift of his Son too great to confer upon us? Oh blessed Incarnation! oh happy day! never will we forget thee, but entirely devote our selves to his service and worship, who hath this day called us to be his Son by adoption, settle our affections and confirm us in this our resolution, that by the influence of thy Holy Spirit we may obtain the end and purpose of thy Incar<g ref="char:EOLhyphen"/>nation, everlasting.</p>
+            <p>Which is the last to be considered.</p>
+            <p>And the words are easie to be understood, for by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is meant whosoever shall receive and o<g ref="char:EOLhyphen"/>bey the doctrine of his Gospel, and frame his life ac<g ref="char:EOLhyphen"/>cording to the rules thereof, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> shall not perish but be rescued from eternal death, and made partaker of eternal life, but on the contrary, if we disown him, and reject his rules, we shall receive no benefits by the merits of his death and Passion, for though Hea<g ref="char:EOLhyphen"/>ven should become a desart, yet he will not people it with persons refractory and disobedient, but the sentence of the first Curse shall not be repealed, but still hold valid and of force; for if they will work their own destruction by refusing to lay hold on Chtist, this inconveniency happens unto them, not from the inefficacy of Christs satisfaction, or a defect of his commiseration, and goodness towards his Crea<g ref="char:EOLhyphen"/>tures,<note place="margin">2 <hi>Pet.</hi> 2.1.</note> but from their own default, because as the Apo<g ref="char:EOLhyphen"/>stle speaks <hi>they deny him by whom they were bought.</hi>
+            </p>
+            <p>He purchased the souls of the whole World, but if
+<pb n="65" facs="tcp:36814:34"/> they will not accept of such a Ransom by believing on him, and regulating their wills, by his will, they may be damned though he was offered up a Sacrifice for them; thus the Apostle tells us,<note place="margin">1 <hi>Cor.</hi> 8.11.</note>
+               <hi>thy Brother perish for whom Christ died.</hi>
+            </p>
+            <p>For he died for all, yet those only receive the privi<g ref="char:EOLhyphen"/>ledges thereof, who believe on him by their obedienee to his word.</p>
+            <p>For though the Sun was placed in the Firmament of Heaven, that the whole World might be cherished by the influence of its heat and light, yet how many are there to whom it is not much beneficial; for are there not some of so reserv'd and melancholy a disposition, that they are more affected with darkness, upon which ac<g ref="char:EOLhyphen"/>count they creep into Grots and Holes to hide them<g ref="char:EOLhyphen"/>selves from the glory of his Beams.</p>
+            <p>In like manner, light came into the World, and was offer'd up for the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Catholick good of all, but some loving darkness rather then light, keep themselves baricadoed from his benign influence re<g ref="char:EOLhyphen"/>sisting the light of faith, for otherwise he should not perish, but have everlasting life,<note place="margin">
+                  <hi>Heb.</hi> 5.9.</note> which is best inter<g ref="char:EOLhyphen"/>preted by that curt, yet full expression of St. <hi>Paul, he is the author of eternal salvation unto all them that obey him.</hi>
+            </p>
+            <p>The Kingdom of Heaven is shut up against none, though some are so unhappy as to exclude themselves, for they are so far degenerated into Brutes, that nei<g ref="char:EOLhyphen"/>ther the dreadful apprehensions of an angry God, <hi>a consuming fire,</hi> or <hi>Worm that never dyes</hi> can frighten them into obedience, or can the invitatory Charms of Holy things allure them thereunto, or lastly, can the modest shame of a base and ignoble action move them; for like ill-distempered bodies they convert all
+<pb n="66" facs="tcp:36814:35"/> wholsome food into their own corrupted humours, saying unto God <hi>depart from us, we desire not the know<g ref="char:EOLhyphen"/>ledge of his ways: who is the Almighty that we should serve him? or what benefit accrues to us, if we pray to him?</hi>
+            </p>
+            <p>First, they abhor <hi>the knowledge of his ways and com<g ref="char:EOLhyphen"/>mandments,</hi> because they are contrary and speak against their works.</p>
+            <p>Secondly, They refuse submission to his power, per<g ref="char:EOLhyphen"/>swading themselves he is not <hi>Almighty,</hi> because sentence is not executed speedily, but he is <hi>Merciful, Long-suffer<g ref="char:EOLhyphen"/>ing and Gracious.</hi>
+            </p>
+            <p>And then lastly, They will not <hi>pray unto him,</hi> because they would ask that which is so repugnant to his su<g ref="char:EOLhyphen"/>preme wisdom and goodness, that they know he will not answer their petitions.</p>
+            <p>So that in short, it is through themselves they perish and come not to bliss and glory, because they decline the presence of God, shutting up all the avenues of faith and charity, through which he should come in unto them.</p>
+            <p>For God hath engaged his word not to be inexorable, and the Creator hath protested and sworn that it is far from his thoughts to delight himself in the destru<g ref="char:EOLhyphen"/>ction of his Creature.</p>
+            <p>For can the charity of a grave and sober person upon earth pray for the conversion and salvation of all Na<g ref="char:EOLhyphen"/>tions, and what? shall the charity of Christ be limit<g ref="char:EOLhyphen"/>ed, or will they ravish him of his goodness? No, ve<g ref="char:EOLhyphen"/>rily, he would have none to perish, but upon their sub<g ref="char:EOLhyphen"/>mission, he will embrace them with the arms of his mercy, receive them for his own Children by Adopti<g ref="char:EOLhyphen"/>on, give them the blessings of eternal life, and make them partakers of his everlasting Kingdom.</p>
+            <p>Seeing then this was the end and drift of Christs In<g ref="char:EOLhyphen"/>carnation;
+<pb n="67" facs="tcp:36814:35"/> seeing God hath dealt thus graciously with us, <hi>what manner of persons ought we to be in all holy conver<g ref="char:EOLhyphen"/>sation and godliness?</hi>
+            </p>
+            <p>How ought we to esteem and love him, who so esteemed and loved us, that he thought not his life and bloud too dear for us?</p>
+            <p>How ought we to esteem our selves, since God hath thought us worthy to be esteemed of him? Let us remember, this and know that we are men.</p>
+            <p>How ought we to take heed that we neither spot or soil that flesh wherein God hath manifested him<g ref="char:EOLhyphen"/>self.</p>
+            <p>For what are we the better that God hath given us his Son, if there be not a mystical Incarnation in our hearts, and his Nativity our spiritual Birth-day, that being born anew, Christ may dwell in us and we in him.</p>
+            <p>Was it not his purpose to be like us, that we might be like him? was he not born of a poor Virgin, to teach us to be meek and lowly? did he not take upon him the form of a Servant, to teach us we must not Lord it over them who are beneath us?</p>
+            <p>How little did he value the pomp and grandeur of the World, to set our affections on things above? how contented was he in a mean condition, to teach us not to take care for to Morrow? How courteous was he to the meanest Clients, to teach us humanity and brotherly kindness? how liberal was he of doing good, to teach us to be diligent in relieving the neeessity of the Indigent? How patient was he in suffering the the mockeries and scoffs of the ruder multitude, to teach us not to pay evil for evil? how patient was he amidst the sad tortures and pangs of the Cross, to teach us not to repine at the chastisements and cor<g ref="char:EOLhyphen"/>rections,
+<pb n="68" facs="tcp:36814:36"/> of Heaven? How little did he fancy the applauses of men, to teach us not to court popularity, or be fond of the praises of men? How absolutely did he resign up his Will to the Will of his Father, to teach us in every state to say, <hi>Thy Will be done on Earth as it is in Heaven?</hi> In a word, how did he lay down his Life in full hopes of a glorious Resurrection; to teach us to say: <hi>Though af<g ref="char:EOLhyphen"/>ter my Skin worms destroy my Body, yet in my Flesh shall I see God whom I my self shall behold, and not another.</hi>
+            </p>
+            <p>These are the Beauties of Jesus to be equally admir'd and pra<g ref="char:EOLhyphen"/>ctised by us: This is a Transcript of the Deity, which we must carry always in our hearts; for by the copying of it, Christ knows who are his.</p>
+            <p>Let us then endeavour to follow our Exemplar as close as we can in these steps of his Holy Life: Let us not slight that Love which is gone to prepare us a place in his Fathers House: Let us make all things conspire to proclaim his Glory: Let us conceive Christ in our heart by our believing and hearing his word; and let us bring him forth in our life by giving all diligence to practice and perform it.</p>
+            <p>Let us look on the Mercy of this day as an hopeful assurance, that God will never end his Love and good Will towards Men, till he hath brought us thither, where Jesus is.</p>
+            <p>Let us earnestly beseech him to guide us in those steps, whereby he did ascend from Earth to Heaven.</p>
+            <p>Let us desire him so earnestly to subdue our Wills to His, that it may be our Meat and Drink to perform his Heavenly Plea<g ref="char:EOLhyphen"/>sure.</p>
+            <p>Which, that it may be more effectually wrought for the Eter<g ref="char:EOLhyphen"/>nal Interest of us all; let us fall down and say in sincerity of heart:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <p>ALmighty God, who hast given us thy only Begotten Son to take our Nature upon him, and as this day to be born of a pure Vir<g ref="char:EOLhyphen"/>gin: Grant, thas we being regenerate, and made thy Children by Adoption and Grace, may daily be renewed by thy Holy Spirit, through the same Jesus Christ our Lord; To whom with the Father and Holy Ghost, be ascribed all Honour, Glory, Might, Majesty and Dominion, now and evermore: <hi>Amen.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36814:36"/>
+         </div>
+      </body>
+   </text>
+</TEI>
